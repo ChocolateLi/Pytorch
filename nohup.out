@@ -1,0 +1,323 @@
+[W 15:08:57.053 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 2022-11-11 15:08:57.719 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-11 15:08:57.719 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-11 15:08:57.719 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-11 15:08:57.719 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-11 15:08:57.719 LabApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-11 15:08:57.719 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-11 15:08:57.719 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-11-11 15:08:57.726 LabApp] JupyterLab extension loaded from /home/anaconda/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2022-11-11 15:08:57.726 LabApp] JupyterLab application directory is /home/anaconda/anaconda3/share/jupyter/lab
+[I 15:08:57.731 NotebookApp] Serving notebooks from local directory: /home/chenli/jupyter
+[I 15:08:57.731 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 15:08:57.731 NotebookApp] http://yuanshan-ai01:8888/
+[I 15:08:57.731 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:09:14.087 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[I 15:09:14.917 NotebookApp] Kernel started: ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f, name: pytorch
+[W 15:09:16.660 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task.ipynb is not trusted
+[I 15:09:26.088 NotebookApp] Kernel started: b9e40c41-1310-4c29-b6cd-ef15c5fb5599, name: pytorch
+[I 15:11:15.017 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[W 15:11:15.018 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[I 15:11:28.533 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task.ipynb
+[W 15:11:28.534 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task.ipynb is not trusted
+[I 15:17:15.046 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[W 15:17:15.047 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[I 15:35:15.027 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[W 15:35:15.028 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[I 15:37:15.001 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[W 15:37:15.002 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[I 18:49:45.324 NotebookApp] 302 GET / (167.248.133.118) 0.420000ms
+[I 18:49:47.503 NotebookApp] 302 GET / (167.248.133.118) 0.400000ms
+[I 18:49:47.946 NotebookApp] Malformed HTTP message from 167.248.133.118: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 18:49:48.391 NotebookApp] 302 GET /tree (167.248.133.118) 0.570000ms
+[I 18:49:48.842 NotebookApp] Malformed HTTP message from 167.248.133.118: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 18:49:49.751 NotebookApp] Malformed HTTP message from 167.248.133.118: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 19:08:14.986 NotebookApp] 302 GET / (138.197.170.47) 0.390000ms
+[I 19:48:22.086 NotebookApp] Starting buffering for b9e40c41-1310-4c29-b6cd-ef15c5fb5599:3d1e4270d6e446f0bd8f0ac25f0c4767
+[I 19:48:22.087 NotebookApp] Starting buffering for ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f:fe257ad4042643dd88a31a9b5edbc037
+[I 20:08:38.396 NotebookApp] Restoring connection for b9e40c41-1310-4c29-b6cd-ef15c5fb5599:3d1e4270d6e446f0bd8f0ac25f0c4767
+[I 20:08:38.443 NotebookApp] Restoring connection for ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f:fe257ad4042643dd88a31a9b5edbc037
+[W 20:17:18.910 NotebookApp] 405 CONNECT httpbin.org:443 (209.159.148.202) 4.750000ms referer=None
+[W 20:32:42.071 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[W 20:32:42.090 NotebookApp] Trusting notebook /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 20:32:42.512 NotebookApp] Starting buffering for ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f:fe257ad4042643dd88a31a9b5edbc037
+[W 20:32:51.592 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task.ipynb is not trusted
+[W 20:32:51.617 NotebookApp] Trusting notebook /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task.ipynb
+[I 20:32:51.989 NotebookApp] Starting buffering for b9e40c41-1310-4c29-b6cd-ef15c5fb5599:3d1e4270d6e446f0bd8f0ac25f0c4767
+[I 21:02:43.584 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:04:44.627 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:06:43.782 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:08:43.575 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:10:44.020 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:12:45.180 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:14:44.079 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:16:46.614 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:18:44.648 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:19:23.907 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 21:36:46.094 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:38:44.314 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:39:35.925 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 21:41:06.901 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:44:57.164 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:48:08.942 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 21:48:47.091 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:50:53.961 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 21:52:37.084 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 21:55:29.979 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 21:56:27.266 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:04:07.318 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:06:05.642 NotebookApp] 302 GET / (183.240.111.153) 0.450000ms
+[I 22:06:05.649 NotebookApp] 302 GET /tree? (183.240.111.153) 0.420000ms
+[I 22:07:57.361 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:11:48.241 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:15:51.812 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:19:52.190 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:23:51.502 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:27:52.378 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:31:51.453 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:34:51.794 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:38:51.348 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:42:52.584 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:46:51.329 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:50:51.345 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:54:51.358 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 22:57:53.045 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:01:51.342 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:05:52.169 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:09:51.341 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:13:51.625 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[W 23:15:15.910 NotebookApp] 404 HEAD http://110.242.68.4/ (123.145.3.241) 3.440000ms referer=None
+[W 23:15:17.249 NotebookApp] 405 CONNECT www.voanews.com:443 (123.158.61.134) 1.050000ms referer=None
+[W 23:15:18.280 NotebookApp] 404 GET http://www.epochtimes.com/ (101.68.5.159) 1.440000ms referer=None
+[W 23:15:18.484 NotebookApp] 404 GET http://www.wujieliulan.com/ (60.17.101.6) 1.540000ms referer=None
+[W 23:15:18.624 NotebookApp] 404 GET http://www.rfa.org/english/ (58.19.56.109) 1.420000ms referer=None
+[W 23:15:19.425 NotebookApp] 404 GET http://www.minghui.org/ (123.160.172.153) 1.460000ms referer=None
+[W 23:15:19.609 NotebookApp] 405 CONNECT www.so.com:443 (111.85.200.190) 0.990000ms referer=None
+[W 23:15:20.755 NotebookApp] 404 GET http://dongtaiwang.com/ (58.19.45.72) 1.480000ms referer=None
+[W 23:15:20.968 NotebookApp] 405 CONNECT cn.bing.com:443 (118.81.86.252) 1.020000ms referer=None
+[W 23:15:21.350 NotebookApp] 404 GET http://www.soso.com/ (111.85.200.138) 1.530000ms referer=None
+[W 23:15:21.388 NotebookApp] 405 CONNECT www.baidu.com:443 (150.255.50.225) 0.910000ms referer=None
+[I 23:17:51.354 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:20:51.356 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:24:51.863 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:28:51.675 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:32:51.815 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:36:54.580 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:40:51.410 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:43:53.217 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:47:52.759 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:51:51.805 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:55:51.348 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 23:59:51.374 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 00:03:51.746 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 02:13:42.984 NotebookApp] Malformed HTTP message from 139.162.190.203: no colon in header line
+[W 05:27:09.019 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.070000ms referer=None
+[I 05:27:40.852 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 05:27:40.862 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[W 06:48:38.051 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (89.248.164.165) 1.040000ms referer=None
+[I 07:29:12.021 NotebookApp] 302 GET / (206.189.140.50) 0.440000ms
+[I 09:20:32.488 NotebookApp] 302 GET / (198.199.95.11) 0.400000ms
+[I 09:53:17.436 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 09:57:08.005 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:00:57.444 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:08:37.694 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:23:58.225 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 10:35:27.428 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 10:39:17.239 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:43:07.226 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:46:57.781 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:50:47.250 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:54:37.238 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 10:58:28.957 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:02:18.242 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:06:07.692 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:09:57.374 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:13:47.236 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:17:37.460 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:21:27.842 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:25:17.557 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:29:07.780 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:31:23.997 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 11:32:57.226 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 11:51:55.060 NotebookApp] 302 GET / (45.83.67.240) 0.440000ms
+[I 11:51:55.337 NotebookApp] 302 GET /tree? (45.83.67.240) 0.480000ms
+[I 12:09:09.830 NotebookApp] Creating new directory in /Pytorch/SentimentAnalysis/data/MyDataset
+[I 12:10:01.460 NotebookApp] Creating new directory in /Pytorch/SentimentAnalysis/data/MyDataset
+[I 12:11:27.173 NotebookApp] Uploading file to /Pytorch/SentimentAnalysis/data/MyDataset/data2/dataset.csv
+[W 12:14:39.280 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:14:39.624 NotebookApp] Kernel started: 3046b76a-5e01-47c9-8899-066b03ffb22a, name: pytorch
+[I 12:15:12.127 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task.ipynb
+[I 12:16:40.392 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:16:40.392 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:18:40.421 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:18:40.421 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[W 12:19:37.446 NotebookApp] delete /Pytorch/SentimentAnalysis/data/MyDataset/data2/dataset.csv
+[I 12:20:13.774 NotebookApp] Uploading file to /Pytorch/SentimentAnalysis/data/MyDataset/data2/dataset.csv
+[I 12:20:39.639 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:20:39.639 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:22:40.361 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:22:40.361 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:24:39.934 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:24:39.935 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:26:40.068 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:26:40.068 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:32:39.680 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:32:39.681 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:34:39.688 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:34:39.689 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:36:39.646 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:36:39.646 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[W 12:37:33.795 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_explore.ipynb is not trusted
+[I 12:37:34.412 NotebookApp] Kernel started: cb0fa33d-ee8e-480e-a6e5-e2313b03c9fc, name: pytorch
+[I 12:38:40.400 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:38:40.401 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:39:34.511 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_explore.ipynb
+[W 12:39:34.511 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_explore.ipynb is not trusted
+[I 12:40:40.410 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:40:40.410 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:42:39.651 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:42:39.651 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:44:40.416 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:44:40.416 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:48:39.884 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:48:39.884 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:50:39.647 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:50:39.648 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 12:52:39.647 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 12:52:39.648 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:00:39.696 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:00:39.697 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:02:39.654 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:02:39.654 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:04:40.299 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:04:40.299 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:06:39.700 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:06:39.700 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:08:39.653 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:08:39.654 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:18:39.703 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:18:39.703 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:20:40.374 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 13:20:40.375 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 13:24:07.257 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:27:58.034 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:31:47.379 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:35:37.338 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:39:27.730 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:43:17.934 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:47:07.367 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:50:57.507 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:54:51.454 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 13:58:51.890 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:02:51.484 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:06:51.467 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:10:51.479 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:14:51.460 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:17:51.564 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:21:51.524 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:25:51.482 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:29:51.517 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:33:51.472 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:37:51.500 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:40:51.499 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:44:51.479 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:48:51.902 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:52:51.471 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:56:07.729 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 14:59:57.295 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:03:47.471 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:07:51.466 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:11:51.462 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:15:17.295 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:19:07.893 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:19:53.464 NotebookApp] 302 GET / (183.240.111.153) 0.580000ms
+[I 15:19:53.475 NotebookApp] 302 GET /tree? (183.240.111.153) 0.600000ms
+[I 15:23:51.523 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:26:47.466 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:30:38.729 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:34:27.875 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:38:17.270 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:42:07.272 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:43:18.015 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 15:45:57.300 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:49:47.870 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[I 15:49:57.034 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f restarted
+[I 17:02:31.153 NotebookApp] 302 GET / (64.62.197.53) 0.590000ms
+[I 17:02:39.124 NotebookApp] 302 GET / (64.62.197.56) 0.340000ms
+[I 17:02:39.299 NotebookApp] 302 GET /tree? (64.62.197.56) 0.580000ms
+[I 17:08:01.806 NotebookApp] Starting buffering for ba90eb6b-35d8-4fb6-ac13-b9e980fd5a1f:af3380c2e65e44dc9c710055e9d6addf
+[I 17:08:01.816 NotebookApp] Starting buffering for b9e40c41-1310-4c29-b6cd-ef15c5fb5599:bb12289282b443b887a0331e94079e9b
+[I 17:08:01.821 NotebookApp] Starting buffering for 3046b76a-5e01-47c9-8899-066b03ffb22a:fad109d0155d4282babea793fd876ab1
+[I 17:08:01.826 NotebookApp] Starting buffering for cb0fa33d-ee8e-480e-a6e5-e2313b03c9fc:851f50046f6c421b882485b9dbc1d53f
+[W 17:09:08.919 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.320000ms referer=None
+[W 19:18:37.218 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.170000ms referer=None
+[I 00:03:10.669 NotebookApp] 302 GET / (34.222.178.7) 0.420000ms
+[I 00:45:28.964 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 00:45:28.974 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 02:27:17.254 NotebookApp] 302 GET / (183.240.111.153) 0.440000ms
+[I 02:27:17.265 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 03:45:01.614 NotebookApp] 302 GET / (134.122.84.173) 0.380000ms
+[I 04:08:33.676 NotebookApp] 302 GET / (223.111.175.47) 0.370000ms
+[I 09:38:33.358 NotebookApp] 302 GET / (192.241.205.145) 0.400000ms
+[W 10:17:31.622 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.140000ms referer=None
+[W 11:00:03.180 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (89.248.164.165) 1.440000ms referer=None
+[I 11:04:56.557 NotebookApp] 302 GET / (192.241.202.38) 0.400000ms
+[I 11:16:49.406 NotebookApp] 302 GET / (167.94.138.120) 0.380000ms
+[I 11:16:49.855 NotebookApp] 302 GET / (167.94.138.120) 0.390000ms
+[I 11:16:50.300 NotebookApp] Malformed HTTP message from 167.94.138.120: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 11:16:50.753 NotebookApp] 302 GET /tree (167.94.138.120) 0.500000ms
+[I 11:16:51.228 NotebookApp] Malformed HTTP message from 167.94.138.120: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 11:16:52.138 NotebookApp] Malformed HTTP message from 167.94.138.120: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 13:52:23.424 NotebookApp] 302 GET / (106.3.146.194) 0.350000ms
+[I 13:52:38.714 NotebookApp] 302 GET /tree (106.3.146.194) 0.450000ms
+[I 15:07:03.160 NotebookApp] 302 GET / (68.183.157.57) 0.400000ms
+[I 15:17:24.021 NotebookApp] 302 GET / (183.240.111.153) 0.450000ms
+[I 15:17:24.031 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 17:23:12.218 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 17:23:12.228 NotebookApp] 302 GET /tree? (183.240.111.153) 0.350000ms
+[W 19:20:03.749 NotebookApp] 405 CONNECT checkip.amazonaws.com:443 (90.151.171.108) 1.170000ms referer=None
+[W 19:20:13.839 NotebookApp] 404 GET http://checkip.amazonaws.com?Z71446362332Q1 (90.151.171.108) 1.090000ms referer=https://google.com/
+[I 19:20:13.840 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[I 19:23:48.263 NotebookApp] 302 GET / (64.62.197.72) 0.430000ms
+[I 19:23:57.262 NotebookApp] 302 GET / (64.62.197.74) 0.380000ms
+[I 19:23:57.437 NotebookApp] 302 GET /tree? (64.62.197.74) 0.410000ms
+[W 20:26:52.256 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.080000ms referer=None
+[I 01:00:29.407 NotebookApp] 302 GET / (128.199.165.64) 0.390000ms
+[W 01:50:44.039 NotebookApp] 404 HEAD http://112.124.42.80:63435/ (60.191.125.35) 1.000000ms referer=None
+[W 01:57:41.784 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[I 03:47:17.506 NotebookApp] 302 GET / (117.187.173.4) 0.430000ms
+[I 03:47:17.566 NotebookApp] 302 GET /tree?/favicon.ico (117.187.173.4) 0.450000ms
+[I 03:47:17.704 NotebookApp] 302 GET /tree?/sitemap.xml (117.187.173.4) 0.410000ms
+[I 03:47:17.706 NotebookApp] 302 GET /tree?/robots.txt (117.187.173.4) 0.350000ms
+[I 03:47:38.437 NotebookApp] 302 GET /tree? (117.187.173.4) 0.490000ms
+[I 03:47:51.078 NotebookApp] 302 GET / (117.187.173.4) 0.380000ms
+[I 03:47:51.111 NotebookApp] 302 GET /tree? (117.187.173.4) 0.390000ms
+[W 03:47:54.559 NotebookApp] 404 GET /sitemap.xml (117.187.173.4) 1.170000ms referer=None
+[W 05:38:49.179 NotebookApp] 404 GET /druid/index.html (192.241.199.32) 1.050000ms referer=None
+[I 05:55:54.242 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 05:55:54.251 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 07:23:52.847 NotebookApp] 302 GET / (111.7.96.147) 0.390000ms
+[I 07:24:26.081 NotebookApp] 302 GET / (111.7.100.34) 0.420000ms
+[I 07:24:26.116 NotebookApp] 302 GET /tree? (111.7.100.34) 0.370000ms
+[I 07:24:26.283 NotebookApp] 302 GET / (111.7.100.34) 0.250000ms
+[I 07:24:26.384 NotebookApp] 302 GET /tree? (111.7.100.32) 0.320000ms
+[I 07:24:30.239 NotebookApp] 302 GET /tree?/robots.txt (124.70.56.97) 0.540000ms
+[W 08:35:46.096 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.119.144) 1.040000ms referer=None
+[I 08:51:06.586 NotebookApp] 302 GET / (223.111.175.56) 0.410000ms
+[W 09:25:06.517 NotebookApp] 404 GET /druid/index.html (124.70.74.250) 1.030000ms referer=None
