@@ -1172,3 +1172,1742 @@ kernel 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8 restarted
 [I 17:26:03.793 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:62f5821cfe9845398e8f1ff854a3c937
 [I 17:26:03.801 NotebookApp] Starting buffering for 559423a6-38ff-4267-a406-9ed23f7af7a6:4def753a42d145b485dd24a1da082eb9
 [I 17:26:03.810 NotebookApp] Starting buffering for a32ab0fe-5756-4d83-9c16-4f8645865fc4:54cd71f684ea47f2aa8dd1fb09e65382
+[I 01:30:07.009 NotebookApp] 302 GET / (167.94.138.46) 0.400000ms
+[I 01:30:07.479 NotebookApp] 302 GET / (167.94.138.46) 0.350000ms
+[I 01:30:07.948 NotebookApp] Malformed HTTP message from 167.94.138.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 01:30:08.423 NotebookApp] 302 GET /tree (167.94.138.46) 0.530000ms
+[I 01:30:08.882 NotebookApp] Malformed HTTP message from 167.94.138.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 01:30:09.814 NotebookApp] Malformed HTTP message from 167.94.138.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 01:46:42.721 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 01:46:42.729 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 02:05:15.760 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.110000ms referer=None
+[I 03:07:27.682 NotebookApp] 302 GET / (128.1.44.206) 0.400000ms
+[I 03:07:48.515 NotebookApp] 302 GET /tree? (128.1.44.206) 0.530000ms
+[W 03:08:00.216 NotebookApp] 404 GET /sitemap.xml (128.1.44.206) 1.020000ms referer=None
+[W 05:40:06.229 NotebookApp] 404 GET /druid/index.html (192.241.203.164) 1.020000ms referer=None
+[I 06:12:21.115 NotebookApp] 302 GET / (92.118.39.78) 0.410000ms
+[W 07:03:50.837 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.190000ms referer=None
+[I 08:56:17.184 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 08:56:17.199 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[W 09:10:42.560 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.150000ms referer=None
+[W 09:48:37.003 NotebookApp] 404 GET /druid/index.html (117.78.8.61) 0.980000ms referer=None
+[I 10:18:51.673 NotebookApp] 302 GET / (125.24.144.7) 0.420000ms
+[I 11:49:54.403 NotebookApp] 302 GET / (192.241.206.148) 1.400000ms
+[I 14:14:04.694 NotebookApp] 302 GET / (165.22.214.41) 0.470000ms
+[I 14:14:05.507 NotebookApp] 302 GET /tree (165.22.214.41) 0.540000ms
+[W 16:17:52.714 NotebookApp] 405 CONNECT checkip.amazonaws.com:443 (90.151.171.108) 1.080000ms referer=None
+[W 16:18:02.831 NotebookApp] 404 GET http://checkip.amazonaws.com?Z71446362332Q1 (90.151.171.108) 1.100000ms referer=https://google.com/
+[I 16:18:02.832 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[I 16:37:37.714 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 16:37:37.726 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 18:07:11.823 NotebookApp] 302 GET / (146.190.91.123) 0.420000ms
+[W 19:47:47.272 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 19:49:49.056 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 19:49:49.058 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 19:53:31.863 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 19:55:32.940 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 19:55:32.941 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[W 20:11:18.601 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[I 20:11:19.622 NotebookApp] Kernel started: ac51f01f-96b2-478b-99f0-ca6f1975e28f, name: pytorch
+[W 20:13:07.002 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_SentimentAnalysis_1.0.ipynb is not trusted
+[I 20:13:08.372 NotebookApp] Kernel started: c1f77ae2-3e0a-4e0a-9cc7-ed7c0f35a7f4, name: pytorch
+[I 20:13:17.080 NotebookApp] Starting buffering for c1f77ae2-3e0a-4e0a-9cc7-ed7c0f35a7f4:4c7a4ac0719c416d89efac845833a5b1
+[I 20:13:19.712 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb
+[W 20:13:19.713 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_2.0.ipynb is not trusted
+[W 20:16:15.235 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_SentimentAnalysis_2.0.ipynb is not trusted
+[I 20:16:16.469 NotebookApp] Kernel started: 1ed8bc50-aa01-47b6-863a-ba12b899e627, name: pytorch
+[I 20:18:16.572 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/Longformer_SentimentAnalysis_2.0.ipynb
+[W 20:18:16.573 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_SentimentAnalysis_2.0.ipynb is not trusted
+[I 20:35:30.336 NotebookApp] 302 GET / (216.218.206.109) 0.550000ms
+[I 20:35:52.608 NotebookApp] 302 GET / (216.218.206.93) 0.380000ms
+[I 20:35:52.781 NotebookApp] 302 GET /tree? (216.218.206.93) 0.480000ms
+[I 21:04:50.801 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:64935755545b457985a7d81a7fc86647
+[I 21:04:50.806 NotebookApp] Starting buffering for a32ab0fe-5756-4d83-9c16-4f8645865fc4:b8315a21ea4a40f58adfb96aba062402
+[I 21:04:50.808 NotebookApp] Starting buffering for ac51f01f-96b2-478b-99f0-ca6f1975e28f:fe9ff7d046cd4b9f87ea274e3e37f509
+[I 21:04:50.811 NotebookApp] Starting buffering for 1ed8bc50-aa01-47b6-863a-ba12b899e627:a1f60f574d71447d9f621bda08b5ff50
+[I 21:35:17.341 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 21:35:17.351 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 00:30:32.919 NotebookApp] 302 GET / (103.203.58.5) 0.440000ms
+[I 02:04:17.577 NotebookApp] 302 GET / (92.118.39.78) 0.420000ms
+[W 02:31:42.077 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.200000ms referer=None
+[I 04:08:08.199 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 04:08:08.207 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 05:04:37.808 NotebookApp] 302 GET / (67.205.183.49) 0.390000ms
+[W 05:31:06.776 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[I 07:42:10.187 NotebookApp] 302 GET / (162.142.125.221) 0.380000ms
+[I 07:42:10.603 NotebookApp] 302 GET / (162.142.125.221) 0.360000ms
+[I 07:42:11.019 NotebookApp] Malformed HTTP message from 162.142.125.221: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:42:11.442 NotebookApp] 302 GET /tree (162.142.125.221) 0.520000ms
+[I 07:42:11.855 NotebookApp] Malformed HTTP message from 162.142.125.221: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:42:12.690 NotebookApp] Malformed HTTP message from 162.142.125.221: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 08:15:39.283 NotebookApp] 302 GET / (184.105.247.238) 0.400000ms
+[I 08:16:08.001 NotebookApp] 302 GET / (184.105.247.247) 0.370000ms
+[I 08:16:08.171 NotebookApp] 302 GET /tree? (184.105.247.247) 0.400000ms
+[I 08:39:11.356 NotebookApp] 302 GET / (92.118.39.78) 0.420000ms
+[I 09:07:56.401 NotebookApp] 302 GET / (140.207.177.74) 0.410000ms
+[I 09:07:56.465 NotebookApp] 302 GET /tree? (140.207.177.74) 0.400000ms
+[I 11:51:10.455 NotebookApp] 302 GET / (198.199.94.56) 0.410000ms
+[W 13:11:39.902 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.170000ms referer=None
+[I 13:48:21.300 NotebookApp] 302 GET / (106.3.146.194) 0.370000ms
+[I 13:48:36.590 NotebookApp] 302 GET /tree (106.3.146.194) 0.460000ms
+[I 16:12:11.640 NotebookApp] 302 GET / (92.118.39.78) 0.420000ms
+[I 16:24:14.531 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 16:24:14.541 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 16:31:07.861 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.580000ms referer=None
+[I 23:17:23.133 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 23:17:23.140 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 01:32:03.792 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[I 01:33:51.859 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 01:33:51.868 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[I 03:15:04.342 NotebookApp] 302 GET / (167.94.146.58) 0.430000ms
+[I 03:15:04.850 NotebookApp] 302 GET / (167.94.146.58) 0.390000ms
+[I 03:15:05.356 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:15:05.861 NotebookApp] 302 GET /tree (167.94.146.58) 0.490000ms
+[I 03:15:06.364 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:15:07.386 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 08:12:55.593 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 08:12:55.603 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 11:08:41.573 NotebookApp] 302 GET / (159.65.94.16) 0.410000ms
+[I 11:35:26.932 NotebookApp] 302 GET / (64.62.197.75) 0.400000ms
+[I 11:35:31.997 NotebookApp] 302 GET / (64.62.197.62) 0.360000ms
+[I 11:35:32.182 NotebookApp] 302 GET /tree? (64.62.197.62) 0.430000ms
+[I 11:52:20.968 NotebookApp] 302 GET / (192.241.200.174) 0.400000ms
+[W 12:14:20.920 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.090000ms referer=None
+[I 13:02:03.447 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[W 13:58:47.876 NotebookApp] 405 CONNECT httpbin.org:443 (209.159.148.202) 1.080000ms referer=None
+[I 16:59:25.741 NotebookApp] 302 GET /lab (222.217.126.151) 0.580000ms
+[I 17:01:46.013 NotebookApp] 302 GET /lab (42.236.10.78) 0.470000ms
+[I 17:01:46.130 NotebookApp] 302 GET /lab (42.236.10.78) 0.390000ms
+[I 17:02:05.202 NotebookApp] 302 GET / (42.236.10.84) 0.380000ms
+[I 17:02:06.812 NotebookApp] 302 GET / (42.236.10.84) 0.400000ms
+[I 17:02:10.095 NotebookApp] 302 GET /tree? (42.236.10.84) 0.510000ms
+[I 18:08:24.469 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 18:08:24.478 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 20:38:11.775 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (89.248.164.165) 1.030000ms referer=None
+[I 21:01:56.689 NotebookApp] 302 GET / (92.118.39.78) 0.420000ms
+[I 21:26:55.865 NotebookApp] 302 GET / (123.160.221.22) 0.390000ms
+[I 21:27:00.896 NotebookApp] 302 GET / (101.227.1.199) 0.380000ms
+[I 21:27:00.927 NotebookApp] 302 GET /tree? (101.227.1.199) 0.390000ms
+[I 21:27:01.035 NotebookApp] 302 GET / (101.227.1.198) 0.250000ms
+[I 21:27:01.103 NotebookApp] 302 GET /tree? (101.227.1.198) 0.750000ms
+[W 22:17:36.574 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.170000ms referer=None
+[I 22:32:40.718 NotebookApp] 302 GET / (45.155.126.213) 0.380000ms
+[W 22:40:54.970 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (106.75.211.195) 1.030000ms referer=None
+[I 23:02:05.589 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 23:02:05.597 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 03:00:45.880 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.130000ms referer=None
+[W 03:55:12.450 NotebookApp] 405 CONNECT httpbin.org:443 (209.159.148.202) 1.090000ms referer=None
+[I 04:23:42.819 NotebookApp] 302 GET /admin/ (128.14.133.58) 0.420000ms
+[W 04:35:57.524 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.100000ms referer=None
+[I 04:55:54.907 NotebookApp] 302 GET / (43.158.213.246) 0.380000ms
+[W 06:05:53.613 NotebookApp] 404 GET /druid/index.html (192.241.207.118) 1.010000ms referer=None
+[I 06:07:41.717 NotebookApp] 302 GET / (198.235.24.59) 0.410000ms
+[I 06:07:41.834 NotebookApp] 302 GET /tree? (198.235.24.59) 0.860000ms
+[I 07:38:59.999 NotebookApp] 302 GET / (167.94.138.46) 0.390000ms
+[I 07:39:00.448 NotebookApp] 302 GET / (167.94.138.46) 0.390000ms
+[I 07:39:00.903 NotebookApp] Malformed HTTP message from 167.94.138.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:39:01.433 NotebookApp] 302 GET /tree (167.94.138.46) 0.460000ms
+[I 07:39:01.897 NotebookApp] Malformed HTTP message from 167.94.138.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:39:02.804 NotebookApp] Malformed HTTP message from 167.94.138.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 08:45:31.856 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 08:45:31.865 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[I 10:02:04.991 NotebookApp] 302 GET / (92.118.39.78) 0.390000ms
+[I 10:30:15.018 NotebookApp] 302 GET /lab (222.217.126.237) 0.510000ms
+[W 11:41:49.295 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[I 11:52:52.028 NotebookApp] 302 GET / (192.241.208.189) 0.370000ms
+[I 15:23:30.847 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 15:23:30.858 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[I 17:44:33.465 NotebookApp] 302 GET / (162.142.125.9) 0.420000ms
+[I 17:44:33.890 NotebookApp] 302 GET / (162.142.125.9) 0.430000ms
+[I 17:44:34.300 NotebookApp] Malformed HTTP message from 162.142.125.9: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:44:34.710 NotebookApp] 302 GET /tree (162.142.125.9) 0.520000ms
+[I 17:44:35.122 NotebookApp] Malformed HTTP message from 162.142.125.9: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:44:35.960 NotebookApp] Malformed HTTP message from 162.142.125.9: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:45:27.950 NotebookApp] 302 GET / (205.210.31.132) 0.470000ms
+[I 22:51:46.962 NotebookApp] 302 GET / (193.37.255.114) 0.350000ms
+[I 22:51:47.425 NotebookApp] 302 GET /tree (193.37.255.114) 0.520000ms
+[I 23:48:37.753 NotebookApp] 302 GET / (64.62.197.28) 0.460000ms
+[I 23:48:52.513 NotebookApp] 302 GET / (64.62.197.17) 0.390000ms
+[I 23:48:52.684 NotebookApp] 302 GET /tree? (64.62.197.17) 0.480000ms
+[I 01:48:32.742 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 01:48:32.752 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 04:10:24.808 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[W 04:45:34.591 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[W 06:43:52.099 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.170000ms referer=None
+[I 08:18:17.534 NotebookApp] 302 GET / (64.62.197.45) 0.440000ms
+[I 08:18:28.858 NotebookApp] 302 GET / (64.62.197.33) 0.390000ms
+[I 08:18:29.024 NotebookApp] 302 GET /tree? (64.62.197.33) 0.400000ms
+[W 08:18:42.533 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.34) 1.460000ms referer=None
+[I 08:43:46.862 NotebookApp] 302 GET / (178.32.197.86) 0.440000ms
+[I 09:47:41.092 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 09:47:41.102 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 09:53:20.824 NotebookApp] 302 GET /tree? (188.165.87.104) 0.530000ms
+[I 10:47:53.228 NotebookApp] 302 GET / (92.118.39.78) 0.390000ms
+[W 11:02:31.866 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.130000ms referer=None
+[I 11:03:12.341 NotebookApp] 302 GET / (152.32.147.130) 0.420000ms
+[I 11:03:30.540 NotebookApp] 302 GET /tree? (152.32.147.130) 0.510000ms
+[W 11:03:32.372 NotebookApp] 404 GET /sitemap.xml (152.32.147.130) 0.940000ms referer=None
+[I 11:53:55.521 NotebookApp] 302 GET / (192.241.196.167) 0.410000ms
+[W 11:59:59.406 NotebookApp] 405 CONNECT www.naver.com:80 (175.198.181.142) 1.040000ms referer=None
+[I 16:37:31.472 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 16:37:31.483 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 17:12:09.976 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.190000ms referer=None
+[I 17:56:35.559 NotebookApp] 302 GET / (183.136.225.42) 0.420000ms
+[I 17:56:35.681 NotebookApp] 302 GET /tree? (183.136.225.42) 0.500000ms
+[W 17:58:14.303 NotebookApp] 405 CONNECT httpbin.org:443 (209.159.148.202) 1.130000ms referer=None
+[W 21:43:45.714 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[W 21:59:50.231 NotebookApp] 405 HEAD / (204.48.17.123) 0.490000ms referer=None
+[W 21:59:50.843 NotebookApp] 404 GET /system_api.php (204.48.17.123) 1.390000ms referer=None
+[W 21:59:51.836 NotebookApp] 404 GET /c/version.js (204.48.17.123) 1.040000ms referer=None
+[W 21:59:52.845 NotebookApp] 404 GET /streaming/clients_live.php (204.48.17.123) 1.400000ms referer=None
+[W 21:59:54.511 NotebookApp] 404 GET /stalker_portal/c/version.js (204.48.17.123) 1.390000ms referer=None
+[W 21:59:55.489 NotebookApp] 404 GET /stream/live.php (204.48.17.123) 1.030000ms referer=None
+[W 21:59:56.501 NotebookApp] 404 GET /flu/403.html (204.48.17.123) 1.450000ms referer=None
+[I 21:59:57.522 NotebookApp] 302 GET / (204.48.17.123) 0.550000ms
+[I 21:59:57.763 NotebookApp] 302 GET /tree (204.48.17.123) 0.520000ms
+[W 00:43:18.057 NotebookApp] 404 GET /Vhj4 (148.153.0.45) 1.460000ms referer=None
+[W 00:43:18.423 NotebookApp] 404 GET /2Sbv (148.153.0.45) 1.100000ms referer=None
+[W 00:43:18.790 NotebookApp] 404 GET /aab8 (148.153.0.45) 1.090000ms referer=None
+[W 00:43:19.138 NotebookApp] 404 GET /jquery-3.3.1.slim.min.js (148.153.0.45) 1.070000ms referer=None
+[W 00:43:19.499 NotebookApp] 404 GET /aab9 (148.153.0.45) 1.050000ms referer=None
+[W 00:43:19.878 NotebookApp] 404 GET /jquery-3.3.2.slim.min.js (148.153.0.45) 1.110000ms referer=None
+[I 00:47:59.545 NotebookApp] 302 GET / (92.118.39.78) 0.410000ms
+[I 01:42:30.672 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 01:42:30.683 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 02:34:45.772 NotebookApp] 302 GET / (198.235.24.19) 0.390000ms
+[I 02:34:45.816 NotebookApp] 302 GET /tree? (198.235.24.19) 0.440000ms
+[I 03:24:56.603 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 03:24:56.611 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 04:08:10.857 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.060000ms referer=None
+[I 04:33:51.656 NotebookApp] 302 GET / (167.248.133.44) 0.400000ms
+[I 04:33:52.116 NotebookApp] 302 GET / (167.248.133.44) 0.330000ms
+[I 04:33:52.563 NotebookApp] Malformed HTTP message from 167.248.133.44: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 04:33:53.022 NotebookApp] 302 GET /tree (167.248.133.44) 0.520000ms
+[I 04:33:53.480 NotebookApp] Malformed HTTP message from 167.248.133.44: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 04:33:54.408 NotebookApp] Malformed HTTP message from 167.248.133.44: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 05:39:13.777 NotebookApp] 302 GET / (34.76.158.233) 0.440000ms
+[W 05:56:44.569 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.090000ms referer=None
+[W 06:31:56.534 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.140000ms referer=None
+[W 06:43:34.185 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.119.144) 1.090000ms referer=None
+[I 07:20:54.658 NotebookApp] 302 GET / (167.248.133.62) 0.420000ms
+[I 07:20:55.302 NotebookApp] Malformed HTTP message from 167.248.133.62: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:20:55.743 NotebookApp] 302 GET /tree (167.248.133.62) 0.480000ms
+[I 07:20:56.167 NotebookApp] Malformed HTTP message from 167.248.133.62: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:20:57.065 NotebookApp] Malformed HTTP message from 167.248.133.62: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 11:39:37.921 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 11:39:37.928 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 11:57:15.947 NotebookApp] 302 GET / (192.241.212.170) 0.430000ms
+[I 15:13:11.930 NotebookApp] 302 GET / (64.62.197.160) 0.390000ms
+[I 15:13:24.906 NotebookApp] 302 GET / (64.62.197.164) 0.450000ms
+[I 15:13:25.073 NotebookApp] 302 GET /tree? (64.62.197.164) 0.490000ms
+[W 15:13:40.155 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.155) 1.060000ms referer=None
+[I 16:25:53.190 NotebookApp] 302 GET / (167.94.145.60) 0.490000ms
+[I 16:25:53.549 NotebookApp] 302 GET / (167.94.145.60) 0.590000ms
+[I 16:25:53.939 NotebookApp] Malformed HTTP message from 167.94.145.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:25:54.349 NotebookApp] 302 GET /tree (167.94.145.60) 0.520000ms
+[I 16:25:54.703 NotebookApp] Malformed HTTP message from 167.94.145.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:25:55.518 NotebookApp] Malformed HTTP message from 167.94.145.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:34:34.351 NotebookApp] 302 GET / (167.94.138.120) 0.410000ms
+[I 16:34:34.797 NotebookApp] 302 GET / (167.94.138.120) 0.390000ms
+[I 16:34:35.242 NotebookApp] Malformed HTTP message from 167.94.138.120: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:34:35.689 NotebookApp] 302 GET /tree (167.94.138.120) 0.510000ms
+[I 16:34:36.134 NotebookApp] Malformed HTTP message from 167.94.138.120: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:34:37.028 NotebookApp] Malformed HTTP message from 167.94.138.120: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[W 17:36:20.608 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[W 18:11:41.131 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.160000ms referer=None
+[W 19:56:52.706 NotebookApp] 404 GET /unified-console.html (161.189.134.11) 1.540000ms referer=None
+[I 21:31:03.048 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 21:31:03.058 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 23:18:12.535 NotebookApp] 302 GET / (198.235.24.133) 0.460000ms
+[W 01:42:28.466 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.160000ms referer=None
+[I 06:14:25.683 NotebookApp] 302 GET / (152.32.200.188) 0.380000ms
+[I 06:14:58.089 NotebookApp] 302 GET /tree? (152.32.200.188) 0.480000ms
+[W 06:15:23.204 NotebookApp] 404 GET /sitemap.xml (152.32.200.188) 1.370000ms referer=None
+[W 06:27:46.901 NotebookApp] 404 GET /druid/index.html (198.199.95.35) 1.030000ms referer=None
+[I 07:06:21.299 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 07:06:21.310 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[W 10:17:10.967 NotebookApp] 405 CONNECT api.ipify.org:443 (90.151.171.108) 1.100000ms referer=None
+[W 10:17:20.404 NotebookApp] 404 GET http://api.ipify.org/?Z71446362332Q1 (90.151.171.108) 1.140000ms referer=https://google.com/
+[I 10:17:20.404 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[W 11:08:38.962 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.410000ms referer=None
+[I 11:39:28.216 NotebookApp] 302 GET / (209.97.134.252) 0.520000ms
+[I 11:58:37.792 NotebookApp] 302 GET / (198.199.95.35) 0.490000ms
+[I 12:57:22.874 NotebookApp] 302 GET / (162.142.125.210) 0.400000ms
+[I 12:57:23.353 NotebookApp] 302 GET / (162.142.125.210) 0.340000ms
+[I 12:57:23.871 NotebookApp] Malformed HTTP message from 162.142.125.210: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 12:57:24.302 NotebookApp] 302 GET /tree (162.142.125.210) 0.540000ms
+[I 12:57:24.747 NotebookApp] Malformed HTTP message from 162.142.125.210: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 12:57:25.691 NotebookApp] Malformed HTTP message from 162.142.125.210: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 13:09:08.102 NotebookApp] 302 GET / (183.240.111.153) 0.510000ms
+[I 13:09:08.114 NotebookApp] 302 GET /tree? (183.240.111.153) 0.490000ms
+[I 19:42:33.882 NotebookApp] 302 GET / (185.180.143.146) 0.430000ms
+[I 19:42:34.150 NotebookApp] 302 GET /tree? (185.180.143.146) 0.480000ms
+[I 21:21:00.096 NotebookApp] 302 GET / (142.93.49.60) 0.440000ms
+[I 21:22:37.358 NotebookApp] 302 GET / (54.67.24.11) 0.450000ms
+[I 22:09:32.519 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 22:09:32.527 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 23:44:56.573 NotebookApp] 302 GET / (216.218.206.73) 0.420000ms
+[I 23:45:23.662 NotebookApp] 302 GET / (216.218.206.117) 0.430000ms
+[I 23:45:23.834 NotebookApp] 302 GET /tree? (216.218.206.117) 0.490000ms
+[W 23:45:59.314 NotebookApp] 404 GET http://api.ipify.org/?format=json (216.218.206.77) 1.090000ms referer=None
+[I 23:50:15.453 NotebookApp] Malformed HTTP message from 192.241.197.157: no colon in header line
+[I 02:26:50.212 NotebookApp] 302 GET / (124.70.70.4) 0.390000ms
+[I 02:26:50.255 NotebookApp] 302 GET /tree? (124.70.70.4) 0.770000ms
+[W 03:47:16.011 NotebookApp] 404 HEAD http://112.124.42.80:63435/ (60.191.125.35) 1.020000ms referer=None
+[I 06:16:19.333 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 06:16:19.342 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 07:20:37.613 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.130000ms referer=None
+[I 09:51:58.055 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 09:51:58.061 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 10:54:35.075 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.060000ms referer=None
+[I 11:39:36.119 NotebookApp] 302 GET / (92.118.39.78) 0.410000ms
+[I 11:58:28.663 NotebookApp] 302 GET / (192.241.212.192) 0.400000ms
+[W 15:54:13.598 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.110000ms referer=None
+[W 15:58:08.661 NotebookApp] 405 OPTIONS / (119.3.243.239) 0.500000ms referer=None
+[I 16:00:40.257 NotebookApp] 302 GET / (119.3.243.239) 0.400000ms
+[I 16:00:40.700 NotebookApp] 302 GET /tree (119.3.243.239) 0.460000ms
+[I 16:57:14.732 NotebookApp] 302 GET / (167.248.133.60) 0.380000ms
+[I 16:57:15.186 NotebookApp] 302 GET / (167.248.133.60) 0.380000ms
+[I 16:57:15.649 NotebookApp] Malformed HTTP message from 167.248.133.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:57:16.109 NotebookApp] 302 GET /tree (167.248.133.60) 0.500000ms
+[I 16:57:17.580 NotebookApp] Malformed HTTP message from 167.248.133.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 16:57:18.497 NotebookApp] Malformed HTTP message from 167.248.133.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:17:39.074 NotebookApp] 302 GET / (183.240.111.153) 0.440000ms
+[I 17:17:39.085 NotebookApp] 302 GET /tree? (183.240.111.153) 0.410000ms
+[I 18:30:20.820 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[W 19:18:29.742 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.130000ms referer=None
+[W 19:25:46.835 NotebookApp] 405 CONNECT httpbin.org:443 (209.159.148.202) 1.090000ms referer=None
+[I 22:48:15.653 NotebookApp] 302 GET / (64.62.197.98) 0.420000ms
+[I 22:48:20.835 NotebookApp] 302 GET / (64.62.197.96) 0.410000ms
+[I 22:48:21.002 NotebookApp] 302 GET /tree? (64.62.197.96) 0.480000ms
+[W 22:48:38.816 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.94) 1.010000ms referer=None
+[I 23:49:21.511 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 23:49:21.523 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 23:52:06.229 NotebookApp] 404 GET /phpmyadmin/index.php (20.243.243.143) 1.120000ms referer=http://139.9.53.25:8888/phpmyadmin/index.php
+[I 01:59:01.181 NotebookApp] 302 GET / (87.236.176.143) 0.450000ms
+[I 01:59:01.837 NotebookApp] 302 GET /tree? (87.236.176.143) 0.530000ms
+[I 04:07:56.212 NotebookApp] 302 GET / (165.227.44.58) 0.420000ms
+[I 06:40:33.050 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 06:40:33.057 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 06:45:50.072 NotebookApp] 302 GET / (139.59.90.175) 0.390000ms
+[W 07:15:51.241 NotebookApp] 405 CONNECT google.com:443 (173.214.175.178) 1.110000ms referer=None
+[I 08:17:00.512 NotebookApp] 302 GET / (45.142.192.7) 0.410000ms
+[I 08:17:01.074 NotebookApp] 302 GET /tree? (45.142.192.7) 0.570000ms
+[I 08:36:40.341 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[I 09:44:07.986 NotebookApp] 302 GET / (167.94.146.58) 0.380000ms
+[I 09:44:08.511 NotebookApp] 302 GET / (167.94.146.58) 0.380000ms
+[I 09:44:09.018 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:44:09.529 NotebookApp] 302 GET /tree (167.94.146.58) 0.480000ms
+[I 09:44:10.047 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:44:11.064 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 11:59:44.674 NotebookApp] 302 GET / (192.241.196.136) 0.370000ms
+[W 14:14:47.869 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 14:16:44.057 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_SentimentAnalysis.ipynb is not trusted
+[I 14:16:49.769 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:16:49.771 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:16:56.776 NotebookApp] Starting buffering for 87bb17a2-8d9e-4ce1-948f-d3418d873efb:dc08853213d144b298042a9a1ebc6e17
+[W 14:20:05.304 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb is not trusted
+[I 14:20:05.867 NotebookApp] Kernel started: 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a, name: pytorch
+[I 14:20:49.065 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:20:49.066 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:22:06.620 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb
+[W 14:22:06.621 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb is not trusted
+[I 14:22:49.648 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:22:49.649 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:26:49.899 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:26:49.901 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:28:49.023 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:28:49.024 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:30:49.031 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:30:49.032 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:32:49.036 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:32:49.037 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:34:49.054 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:34:49.055 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:36:49.643 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:36:49.644 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 14:50:49.689 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 14:50:49.690 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 15:06:04.275 NotebookApp] 302 GET / (45.142.192.7) 0.440000ms
+[I 15:06:04.794 NotebookApp] 302 GET /tree? (45.142.192.7) 0.520000ms
+[I 15:12:56.884 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 15:12:56.891 NotebookApp] 302 GET /tree? (183.240.111.153) 0.360000ms
+[I 16:02:49.760 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:02:49.762 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:04:49.800 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:04:49.802 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:06:49.640 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:06:49.641 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:07:42.382 NotebookApp] 302 GET / (92.118.39.78) 0.420000ms
+[I 16:08:49.041 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:08:49.042 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:09:14.782 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8 restarted
+[I 16:10:49.065 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:10:49.066 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:12:49.051 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:12:49.053 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:14:49.049 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:14:49.050 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:18:49.032 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:18:49.033 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:19:25.910 NotebookApp] Kernel interrupted: 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8
+[I 16:20:49.192 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:20:49.194 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:26:49.115 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:26:49.117 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:34:49.131 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:34:49.132 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:40:49.138 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:40:49.139 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:46:49.100 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:46:49.101 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:54:49.124 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:54:49.125 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:55:32.158 NotebookApp] Kernel interrupted: 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8
+[I 16:56:20.801 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8 restarted
+[I 16:56:49.060 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:56:49.061 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:58:49.053 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:58:49.055 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 17:00:49.115 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 17:00:49.116 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 17:02:49.658 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 17:02:49.660 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 17:22:49.774 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 17:22:49.776 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 17:44:49.721 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 17:44:49.722 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 18:06:49.714 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 18:06:49.715 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 18:28:49.787 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 18:28:49.788 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 18:50:49.743 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 18:50:49.744 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 19:12:49.787 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 19:12:49.790 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 19:32:49.760 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 19:32:49.761 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 19:38:40.307 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_1_valid_acc_95.6_model_weights.bin
+[W 19:38:40.308 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_1_valid_acc_96.5_model_weights.bin
+[W 19:38:40.327 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_2_valid_acc_95.9_model_weights.bin
+[W 19:38:40.328 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_3_valid_acc_97.4_model_weights.bin
+[I 19:54:49.765 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 19:54:49.767 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 20:16:51.759 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 20:16:51.760 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 20:38:49.705 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 20:38:49.706 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:03:45.197 NotebookApp] 302 GET / (106.3.146.194) 0.380000ms
+[I 21:04:00.501 NotebookApp] 302 GET /tree (106.3.146.194) 0.470000ms
+[I 21:07:40.520 NotebookApp] 302 GET / (64.62.197.76) 0.390000ms
+[I 21:07:50.534 NotebookApp] 302 GET / (64.62.197.75) 0.370000ms
+[I 21:07:50.710 NotebookApp] 302 GET /tree? (64.62.197.75) 0.470000ms
+[W 21:08:02.549 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.73) 1.140000ms referer=None
+[I 21:14:49.735 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 21:14:49.736 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:15:56.820 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8 restarted
+[I 21:16:49.073 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 21:16:49.074 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:23:15.134 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:0ae0c063b833480c98397a438db9f416
+[I 21:23:16.471 NotebookApp] Starting buffering for 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a:2d165af84d4e4f4b8400c07eb33b2e0b
+[W 21:43:30.375 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.280000ms referer=None
+[I 21:50:14.185 NotebookApp] 302 GET / (45.142.192.7) 0.410000ms
+[I 21:50:14.775 NotebookApp] 302 GET /tree? (45.142.192.7) 0.920000ms
+[W 22:13:22.183 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[W 22:51:31.163 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[I 23:29:59.899 NotebookApp] 302 GET / (92.118.39.78) 0.370000ms
+[I 23:51:32.088 NotebookApp] Malformed HTTP message from 192.241.195.185: Malformed HTTP request line
+[W 00:22:11.151 NotebookApp] 404 GET /phpmyadmin4.8.5/index.php (20.243.243.143) 1.060000ms referer=http://139.9.53.25:8888/phpmyadmin4.8.5/index.php
+[W 00:47:37.632 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.080000ms referer=None
+[I 01:33:12.632 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 01:33:12.641 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 01:58:22.679 NotebookApp] 302 GET / (92.118.39.251) 0.410000ms
+[I 01:58:24.017 NotebookApp] 302 GET /tree? (92.118.39.251) 0.580000ms
+[I 02:45:15.711 NotebookApp] 302 GET / (91.211.89.244) 0.620000ms
+[I 03:43:02.468 NotebookApp] 302 GET / (162.142.125.212) 0.400000ms
+[I 03:43:02.891 NotebookApp] 302 GET / (162.142.125.212) 0.370000ms
+[I 03:43:03.338 NotebookApp] Malformed HTTP message from 162.142.125.212: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:43:03.747 NotebookApp] 302 GET /tree (162.142.125.212) 0.440000ms
+[I 03:43:04.155 NotebookApp] Malformed HTTP message from 162.142.125.212: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:43:05.004 NotebookApp] Malformed HTTP message from 162.142.125.212: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 04:08:59.707 NotebookApp] 302 GET / (103.203.58.5) 0.470000ms
+[I 05:07:29.398 NotebookApp] 302 GET / (45.142.192.7) 0.440000ms
+[I 05:07:29.933 NotebookApp] 302 GET /tree? (45.142.192.7) 0.560000ms
+[W 06:29:28.694 NotebookApp] 404 GET /druid/index.html (192.241.206.204) 1.070000ms referer=None
+[W 09:01:23.860 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.080000ms referer=None
+[I 09:44:56.375 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 09:44:56.386 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[W 10:44:15.606 NotebookApp] 404 GET /druid/index.html (124.70.70.4) 0.980000ms referer=None
+[I 11:42:05.262 NotebookApp] 302 GET / (45.142.192.7) 0.410000ms
+[I 11:42:05.823 NotebookApp] 302 GET /tree? (45.142.192.7) 0.510000ms
+[I 12:11:52.923 NotebookApp] 302 GET / (192.241.210.12) 0.410000ms
+[I 13:52:49.464 NotebookApp] 302 GET / (92.118.39.78) 0.390000ms
+[I 14:16:30.765 NotebookApp] 302 GET / (183.240.111.153) 0.380000ms
+[I 14:16:30.775 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 14:32:56.304 NotebookApp] 302 GET / (198.235.24.30) 0.410000ms
+[I 14:32:56.422 NotebookApp] 302 GET /tree? (198.235.24.30) 0.500000ms
+[I 15:46:38.026 NotebookApp] 302 GET / (71.6.199.23) 0.360000ms
+[I 15:46:38.735 NotebookApp] 302 GET /tree (71.6.199.23) 0.490000ms
+[W 16:42:33.266 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.100000ms referer=None
+[I 18:29:02.437 NotebookApp] 302 GET / (45.142.192.7) 0.390000ms
+[I 18:29:02.995 NotebookApp] 302 GET /tree? (45.142.192.7) 0.550000ms
+[I 21:04:18.658 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[I 21:40:12.140 NotebookApp] 302 GET / (47.56.236.132) 0.380000ms
+[I 21:40:12.140 NotebookApp] Malformed HTTP message from 47.56.236.132: Malformed HTTP request line
+[I 23:25:27.640 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 23:25:27.652 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 01:53:09.718 NotebookApp] 302 GET / (128.14.134.134) 0.420000ms
+[I 01:53:09.886 NotebookApp] 302 GET /tree? (128.14.134.134) 0.420000ms
+[I 02:20:13.668 NotebookApp] 302 GET / (45.142.192.7) 0.400000ms
+[I 02:20:15.231 NotebookApp] 302 GET /tree? (45.142.192.7) 0.520000ms
+[I 05:10:23.912 NotebookApp] 302 GET / (167.94.138.61) 0.390000ms
+[I 05:10:24.366 NotebookApp] 302 GET / (167.94.138.61) 0.400000ms
+[I 05:10:24.810 NotebookApp] Malformed HTTP message from 167.94.138.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 05:10:25.265 NotebookApp] 302 GET /tree (167.94.138.61) 0.440000ms
+[I 05:10:25.708 NotebookApp] Malformed HTTP message from 167.94.138.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 05:10:26.602 NotebookApp] Malformed HTTP message from 167.94.138.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:06:08.524 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 07:06:08.535 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 09:08:42.510 NotebookApp] 302 GET / (216.218.206.73) 0.400000ms
+[I 09:09:07.229 NotebookApp] 302 GET / (216.218.206.101) 0.370000ms
+[I 09:09:07.697 NotebookApp] 302 GET /tree? (216.218.206.101) 0.490000ms
+[W 09:09:42.095 NotebookApp] 404 GET http://api.ipify.org/?format=json (216.218.206.117) 1.060000ms referer=None
+[W 09:10:05.022 NotebookApp] 405 CONNECT www.shadowserver.org:443 (216.218.206.101) 1.070000ms referer=None
+[W 09:14:20.034 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.080000ms referer=None
+[I 09:56:37.977 NotebookApp] 302 GET / (92.118.39.78) 0.410000ms
+[I 09:56:48.554 NotebookApp] 302 GET / (45.142.192.7) 0.410000ms
+[I 09:56:49.111 NotebookApp] 302 GET /tree? (45.142.192.7) 0.540000ms
+[I 10:07:26.857 NotebookApp] 302 GET / (167.248.133.61) 0.400000ms
+[I 10:07:27.318 NotebookApp] 302 GET / (167.248.133.61) 0.410000ms
+[I 10:07:27.768 NotebookApp] Malformed HTTP message from 167.248.133.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 10:07:28.264 NotebookApp] 302 GET /tree (167.248.133.61) 0.500000ms
+[I 10:07:28.707 NotebookApp] Malformed HTTP message from 167.248.133.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 10:07:29.605 NotebookApp] Malformed HTTP message from 167.248.133.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 11:50:18.026 NotebookApp] 302 GET / (183.136.225.42) 0.400000ms
+[I 11:51:28.294 NotebookApp] 302 GET /tree? (183.136.225.42) 0.530000ms
+[I 12:02:32.346 NotebookApp] 302 GET / (192.241.196.142) 0.360000ms
+[I 12:32:03.829 NotebookApp] 302 GET / (92.118.39.251) 0.390000ms
+[I 12:32:04.371 NotebookApp] 302 GET /tree? (92.118.39.251) 0.530000ms
+[W 12:42:32.372 NotebookApp] 404 GET /.git/config (52.152.167.93) 0.970000ms referer=None
+[I 12:48:49.514 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 12:48:49.527 NotebookApp] 302 GET /tree? (183.240.111.153) 0.410000ms
+[I 14:10:01.862 NotebookApp] 302 GET / (198.235.24.45) 0.450000ms
+[I 16:39:59.061 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[I 17:57:17.085 NotebookApp] 302 GET / (183.240.111.153) 0.370000ms
+[I 17:57:17.097 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 18:03:58.063 NotebookApp] 404 GET /rILU (148.153.0.43) 1.090000ms referer=None
+[W 18:03:58.432 NotebookApp] 404 GET /cq2W (148.153.0.43) 1.050000ms referer=None
+[W 18:03:58.783 NotebookApp] 404 GET /aab8 (148.153.0.43) 1.000000ms referer=None
+[W 18:03:59.178 NotebookApp] 404 GET /jquery-3.3.1.slim.min.js (148.153.0.43) 1.050000ms referer=None
+[W 18:03:59.564 NotebookApp] 404 GET /aab9 (148.153.0.43) 1.050000ms referer=None
+[W 18:03:59.962 NotebookApp] 404 GET /jquery-3.3.2.slim.min.js (148.153.0.43) 1.080000ms referer=None
+[I 19:24:48.193 NotebookApp] 302 GET / (167.172.242.6) 0.410000ms
+[W 20:19:14.128 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.080000ms referer=None
+[W 20:26:41.366 NotebookApp] 405 CONNECT httpbin.org:443 (185.209.15.51) 1.080000ms referer=None
+[W 20:26:41.367 NotebookApp] 405 CONNECT httpbin.org:443 (185.209.15.51) 0.850000ms referer=None
+[W 20:26:42.023 NotebookApp] 405 CONNECT httpbin.org:443 (185.209.15.51) 1.070000ms referer=None
+[W 20:26:42.336 NotebookApp] 405 CONNECT httpbin.org:443 (185.209.15.51) 1.120000ms referer=None
+[I 00:19:01.858 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 00:19:01.871 NotebookApp] 302 GET /tree? (183.240.111.153) 0.420000ms
+[I 00:35:58.526 NotebookApp] 302 GET / (34.78.6.216) 0.540000ms
+[W 01:28:28.421 NotebookApp] 404 GET http://azenv.net/ (37.120.218.88) 1.050000ms referer=None
+[I 02:50:03.118 NotebookApp] 302 GET / (87.236.176.181) 0.450000ms
+[I 02:50:03.616 NotebookApp] 302 GET /tree? (87.236.176.181) 0.470000ms
+[I 04:48:56.277 NotebookApp] 302 GET / (106.75.135.102) 0.390000ms
+[I 04:49:17.575 NotebookApp] 302 GET / (106.75.189.40) 0.390000ms
+[I 04:49:17.583 NotebookApp] 302 GET /tree? (106.75.189.40) 0.420000ms
+[I 04:55:34.503 NotebookApp] 302 GET / (117.78.8.61) 0.410000ms
+[I 04:55:34.544 NotebookApp] 302 GET /tree? (117.78.8.61) 0.410000ms
+[I 05:12:13.343 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[W 06:28:58.901 NotebookApp] 405 HEAD / (146.190.104.143) 0.500000ms referer=None
+[W 06:28:59.525 NotebookApp] 404 GET /system_api.php (146.190.104.143) 1.050000ms referer=None
+[W 06:29:00.520 NotebookApp] 404 GET /c/version.js (146.190.104.143) 1.010000ms referer=None
+[W 06:29:01.519 NotebookApp] 404 GET /streaming/clients_live.php (146.190.104.143) 1.000000ms referer=None
+[W 06:29:02.522 NotebookApp] 404 GET /stalker_portal/c/version.js (146.190.104.143) 1.050000ms referer=None
+[W 06:29:03.522 NotebookApp] 404 GET /stream/live.php (146.190.104.143) 1.060000ms referer=None
+[W 06:29:04.513 NotebookApp] 404 GET /flu/403.html (146.190.104.143) 0.980000ms referer=None
+[I 06:29:05.503 NotebookApp] 302 GET / (146.190.104.143) 0.390000ms
+[I 06:29:05.746 NotebookApp] 302 GET /tree (146.190.104.143) 0.490000ms
+[I 10:01:35.548 NotebookApp] 302 GET / (152.32.153.140) 0.430000ms
+[I 10:01:55.129 NotebookApp] 302 GET /tree? (152.32.153.140) 0.510000ms
+[W 10:02:05.594 NotebookApp] 404 GET /sitemap.xml (152.32.153.140) 1.000000ms referer=None
+[I 10:51:41.759 NotebookApp] 302 GET / (184.105.139.125) 0.420000ms
+[I 10:52:05.598 NotebookApp] 302 GET / (184.105.139.73) 0.370000ms
+[I 10:52:05.799 NotebookApp] 302 GET /tree? (184.105.139.73) 0.540000ms
+[W 10:52:41.825 NotebookApp] 404 GET http://api.ipify.org/?format=json (184.105.139.89) 1.010000ms referer=None
+[W 10:53:05.589 NotebookApp] 405 CONNECT www.shadowserver.org:443 (184.105.139.105) 1.070000ms referer=None
+[W 11:14:49.995 NotebookApp] 404 GET /flu/403.html (124.70.74.250) 0.990000ms referer=None
+[I 12:16:38.933 NotebookApp] 302 GET / (192.241.200.201) 0.420000ms
+[I 13:50:30.884 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 13:50:30.897 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 14:59:28.817 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 14:59:28.827 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[W 15:20:25.003 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.090000ms referer=None
+[I 19:08:18.876 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[I 22:46:35.775 NotebookApp] 302 GET / (104.200.144.73) 0.420000ms
+[I 22:46:36.023 NotebookApp] 302 GET /tree? (104.200.144.73) 0.500000ms
+[W 01:20:34.452 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.100000ms referer=None
+[I 01:37:35.980 NotebookApp] 302 GET / (123.160.221.18) 0.400000ms
+[I 01:37:57.060 NotebookApp] 302 GET / (111.7.96.162) 0.400000ms
+[I 01:37:57.096 NotebookApp] 302 GET /tree? (111.7.96.162) 0.380000ms
+[I 01:37:57.282 NotebookApp] 302 GET / (111.7.96.162) 0.250000ms
+[I 01:37:57.379 NotebookApp] 302 GET /tree? (111.7.96.162) 0.330000ms
+[I 01:55:52.353 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 01:55:52.362 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 03:00:19.395 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.060000ms referer=None
+[I 03:47:51.122 NotebookApp] 302 GET / (167.94.138.60) 0.400000ms
+[I 03:47:51.810 NotebookApp] Malformed HTTP message from 167.94.138.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:47:52.593 NotebookApp] 302 GET /tree (167.94.138.60) 0.480000ms
+[I 03:47:53.160 NotebookApp] Malformed HTTP message from 167.94.138.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:47:54.090 NotebookApp] Malformed HTTP message from 167.94.138.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 04:42:45.825 NotebookApp] 302 GET / (174.138.53.241) 0.370000ms
+[I 05:34:04.439 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 05:34:04.450 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 06:35:48.075 NotebookApp] 404 GET /druid/index.html (192.241.195.186) 1.040000ms referer=None
+[W 07:01:51.184 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.070000ms referer=None
+[W 07:34:21.894 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.140000ms referer=None
+[I 09:43:26.590 NotebookApp] 302 GET / (117.187.173.112) 0.370000ms
+[I 09:49:32.267 NotebookApp] 302 GET / (92.118.39.78) 0.410000ms
+[W 10:12:11.465 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.100000ms referer=None
+[I 11:06:05.730 NotebookApp] 302 GET / (205.210.31.39) 0.410000ms
+[I 11:06:06.117 NotebookApp] 302 GET /tree? (205.210.31.39) 0.480000ms
+[I 12:12:31.160 NotebookApp] 302 GET / (192.241.202.203) 0.370000ms
+[I 13:47:19.795 NotebookApp] 302 GET / (64.62.197.39) 0.640000ms
+[I 13:47:28.109 NotebookApp] 302 GET / (64.62.197.33) 0.400000ms
+[I 13:47:28.278 NotebookApp] 302 GET /tree? (64.62.197.33) 0.530000ms
+[W 13:47:42.946 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.35) 1.060000ms referer=None
+[W 13:47:47.235 NotebookApp] 405 CONNECT www.shadowserver.org:443 (64.62.197.36) 1.040000ms referer=None
+[I 15:01:28.408 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 15:01:28.420 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 15:59:00.808 NotebookApp] 302 GET / (157.122.5.23) 0.360000ms
+[I 15:59:00.821 NotebookApp] 302 GET /tree? (157.122.5.23) 0.400000ms
+[I 15:59:11.975 NotebookApp] 302 GET / (180.163.220.67) 0.350000ms
+[I 15:59:12.012 NotebookApp] 302 GET /tree? (180.163.220.67) 0.370000ms
+[I 15:59:12.208 NotebookApp] 302 GET / (180.163.220.54) 0.260000ms
+[I 15:59:12.267 NotebookApp] 302 GET /tree? (180.163.220.54) 0.370000ms
+[I 15:59:12.477 NotebookApp] 302 GET /tree (42.236.10.117) 0.330000ms
+[I 15:59:12.624 NotebookApp] 302 GET /tree (42.236.10.117) 0.310000ms
+[I 15:59:27.395 NotebookApp] 302 GET / (140.207.249.74) 0.400000ms
+[I 15:59:27.424 NotebookApp] 302 GET /tree? (140.207.249.74) 0.430000ms
+[I 20:59:20.393 NotebookApp] 302 GET / (92.118.39.78) 0.400000ms
+[I 21:06:33.970 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 21:06:33.978 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[I 22:01:52.639 NotebookApp] 302 GET / (49.247.213.246) 0.400000ms
+[I 22:01:53.231 NotebookApp] 302 GET /tree? (49.247.213.246) 0.540000ms
+[W 23:16:07.356 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[W 23:58:22.295 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.070000ms referer=None
+[I 00:39:45.809 NotebookApp] Malformed HTTP message from 192.241.211.149: Malformed HTTP request line
+[W 03:17:30.625 NotebookApp] 404 GET /../../../mnt/mtd/Config/Account1 (185.224.128.15) 1.040000ms referer=None
+[I 03:19:27.831 NotebookApp] Malformed HTTP message from 183.136.225.42: no colon in header line
+[I 03:19:47.992 NotebookApp] 302 GET / (183.136.225.42) 0.390000ms
+[I 03:19:48.044 NotebookApp] 302 GET /tree? (183.136.225.42) 0.430000ms
+[I 03:32:28.798 NotebookApp] 302 GET / (167.94.145.59) 0.390000ms
+[I 03:32:29.159 NotebookApp] 302 GET / (167.94.145.59) 0.340000ms
+[I 03:32:29.506 NotebookApp] Malformed HTTP message from 167.94.145.59: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:32:29.868 NotebookApp] 302 GET /tree (167.94.145.59) 0.430000ms
+[I 03:32:30.252 NotebookApp] Malformed HTTP message from 167.94.145.59: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:32:30.984 NotebookApp] Malformed HTTP message from 167.94.145.59: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[W 05:02:18.955 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.119.144) 1.090000ms referer=None
+[I 05:43:58.017 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 05:43:58.027 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 06:41:26.127 NotebookApp] 302 GET / (107.150.126.151) 0.370000ms
+[I 06:41:47.984 NotebookApp] 302 GET /tree? (107.150.126.151) 0.480000ms
+[W 06:41:58.536 NotebookApp] 404 GET /sitemap.xml (107.150.126.151) 1.010000ms referer=None
+[I 07:14:18.984 NotebookApp] 302 GET / (198.235.24.185) 0.460000ms
+[I 07:57:46.209 NotebookApp] 302 GET / (103.203.58.5) 0.440000ms
+[I 08:43:53.950 NotebookApp] 302 GET / (92.118.39.78) 0.390000ms
+[W 08:52:38.562 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.160000ms referer=None
+[W 08:56:34.153 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.080000ms referer=None
+[W 10:14:45.216 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (106.75.211.111) 1.050000ms referer=None
+[W 12:03:59.071 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[I 12:13:15.530 NotebookApp] 302 GET / (192.241.211.69) 0.410000ms
+[W 15:15:13.329 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.110000ms referer=None
+[I 15:55:22.859 NotebookApp] 302 GET / (167.248.133.61) 0.390000ms
+[I 15:55:23.318 NotebookApp] 302 GET / (167.248.133.61) 0.410000ms
+[I 15:55:24.769 NotebookApp] Malformed HTTP message from 167.248.133.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 15:55:25.223 NotebookApp] 302 GET /tree (167.248.133.61) 0.440000ms
+[I 15:55:25.666 NotebookApp] Malformed HTTP message from 167.248.133.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 15:55:26.554 NotebookApp] Malformed HTTP message from 167.248.133.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 15:59:30.423 NotebookApp] 302 GET / (140.207.249.74) 0.400000ms
+[I 15:59:30.453 NotebookApp] 302 GET /tree? (140.207.249.74) 0.450000ms
+[I 17:41:44.082 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 17:41:44.093 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 18:07:04.841 NotebookApp] 302 GET / (123.160.221.14) 0.400000ms
+[I 18:07:56.434 NotebookApp] 302 GET / (92.118.39.78) 0.430000ms
+[I 18:40:07.151 NotebookApp] 302 GET / (87.236.176.67) 0.470000ms
+[I 18:41:32.430 NotebookApp] 302 GET /tree? (87.236.176.67) 0.490000ms
+[W 19:37:07.324 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[I 21:01:17.734 NotebookApp] 302 GET / (106.75.126.221) 0.590000ms
+[I 21:01:18.519 NotebookApp] 302 GET /tree?/favicon.ico (106.75.126.221) 0.750000ms
+[I 21:01:20.474 NotebookApp] 302 GET /tree?/robots.txt (106.75.126.221) 0.580000ms
+[I 21:01:20.475 NotebookApp] 302 GET /tree?/sitemap.xml (106.75.126.221) 0.440000ms
+[I 21:01:25.545 NotebookApp] 302 GET /tree? (106.75.126.221) 0.670000ms
+[I 21:02:26.999 NotebookApp] 302 GET / (106.75.126.221) 0.370000ms
+[I 21:02:27.044 NotebookApp] 302 GET /tree? (106.75.126.221) 0.440000ms
+[I 21:03:12.911 NotebookApp] 302 GET / (114.115.192.246) 0.600000ms
+[I 21:03:12.950 NotebookApp] 302 GET /tree? (114.115.192.246) 0.670000ms
+[W 21:03:29.788 NotebookApp] 404 GET /sitemap.xml (106.75.126.221) 1.050000ms referer=None
+[I 21:05:04.263 NotebookApp] 302 GET / (211.95.50.4) 0.390000ms
+[I 21:05:04.293 NotebookApp] 302 GET /tree? (211.95.50.4) 0.460000ms
+[I 21:05:04.542 NotebookApp] 302 GET / (211.95.50.4) 0.340000ms
+[I 21:05:04.608 NotebookApp] 302 GET /tree? (211.95.50.4) 0.420000ms
+[I 23:24:15.551 NotebookApp] 302 GET / (216.218.206.98) 0.430000ms
+[I 23:24:38.618 NotebookApp] 302 GET / (216.218.206.66) 0.370000ms
+[I 23:24:38.789 NotebookApp] 302 GET /tree? (216.218.206.66) 0.490000ms
+[W 23:25:13.519 NotebookApp] 404 GET http://api.ipify.org/?format=json (216.218.206.66) 1.060000ms referer=None
+[W 23:25:36.208 NotebookApp] 405 CONNECT www.shadowserver.org:443 (216.218.206.102) 1.060000ms referer=None
+[I 00:51:30.862 NotebookApp] 302 GET / (183.240.111.153) 0.450000ms
+[I 00:51:30.871 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[W 01:04:02.011 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.040000ms referer=None
+[I 02:08:00.178 NotebookApp] 302 GET / (2.187.248.192) 0.430000ms
+[I 04:50:42.459 NotebookApp] 302 GET / (92.118.39.78) 0.340000ms
+[I 04:59:04.764 NotebookApp] 302 GET / (162.142.125.9) 0.380000ms
+[I 04:59:05.187 NotebookApp] 302 GET / (162.142.125.9) 0.370000ms
+[I 04:59:05.603 NotebookApp] Malformed HTTP message from 162.142.125.9: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 04:59:06.018 NotebookApp] 302 GET /tree (162.142.125.9) 0.520000ms
+[I 04:59:06.425 NotebookApp] Malformed HTTP message from 162.142.125.9: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 04:59:07.262 NotebookApp] Malformed HTTP message from 162.142.125.9: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:04:16.653 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 09:04:16.662 NotebookApp] 302 GET /tree? (183.240.111.153) 0.430000ms
+[W 10:12:05.881 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.120000ms referer=None
+[I 11:00:37.190 NotebookApp] 302 GET / (183.240.111.153) 0.450000ms
+[I 11:00:37.200 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[I 12:14:16.852 NotebookApp] 302 GET / (192.241.213.25) 0.360000ms
+[W 12:47:39.012 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.100000ms referer=None
+[I 14:50:25.664 NotebookApp] 302 GET / (92.118.39.78) 0.390000ms
+[I 15:59:32.356 NotebookApp] 302 GET / (140.207.249.74) 1.250000ms
+[I 15:59:32.385 NotebookApp] 302 GET /tree? (140.207.249.74) 0.420000ms
+[I 16:13:18.415 NotebookApp] 302 GET /tree? (121.31.15.24) 0.540000ms
+[I 16:13:22.928 NotebookApp] 302 POST /login?next=%2Ftree%3F (121.31.15.24) 21.900000ms
+[W 16:13:33.866 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:15:35.488 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:15:35.489 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:17:35.289 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:17:35.291 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:19:12.970 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:19:12.971 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:19:35.280 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:19:35.281 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 16:19:49.066 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.140000ms referer=None
+[I 16:21:35.363 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:21:35.365 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:23:35.305 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:23:35.306 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:25:35.294 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:25:35.295 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:47:35.433 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:47:35.434 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 17:09:59.707 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:9dc3640df41d4d478270923a49ab31ea
+[I 18:51:58.178 NotebookApp] 302 GET / (64.62.197.231) 0.430000ms
+[I 18:52:09.025 NotebookApp] 302 GET / (64.62.197.227) 0.580000ms
+[I 18:52:09.198 NotebookApp] 302 GET /tree? (64.62.197.227) 0.740000ms
+[W 18:52:32.880 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.234) 1.070000ms referer=None
+[W 18:52:36.878 NotebookApp] 405 CONNECT www.shadowserver.org:443 (64.62.197.227) 1.040000ms referer=None
+[I 19:41:50.504 NotebookApp] Restoring connection for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:9dc3640df41d4d478270923a49ab31ea
+[I 19:41:50.504 NotebookApp] Replaying 37893 buffered messages
+[W 19:41:51.513 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 19:41:53.700 NotebookApp] iopub messages resumed
+[W 19:41:54.650 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 19:41:56.895 NotebookApp] iopub messages resumed
+[W 19:41:57.917 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 19:42:00.393 NotebookApp] iopub messages resumed
+[I 19:43:26.245 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:9dc3640df41d4d478270923a49ab31ea
+[W 19:43:27.689 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 19:43:29.929 NotebookApp] Discarding 16 buffered messages for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:9dc3640df41d4d478270923a49ab31ea
+[I 19:46:08.841 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8 restarted
+[I 19:46:25.471 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:2492e4db9ca348d48a4cdaabd582778f
+[W 19:46:25.812 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 19:48:29.040 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 19:48:29.041 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 19:50:28.600 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 19:50:28.602 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 20:06:23.494 NotebookApp] 302 GET / (146.190.82.87) 0.410000ms
+[I 20:12:28.375 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 20:12:28.377 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 20:14:47.450 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.180000ms referer=None
+[I 20:34:27.621 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 20:34:27.622 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 20:54:28.420 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 20:54:28.421 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:03:25.067 NotebookApp] 302 GET / (114.115.192.246) 0.380000ms
+[I 21:03:25.106 NotebookApp] 302 GET /tree? (114.115.192.246) 0.410000ms
+[I 21:16:28.374 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 21:16:28.375 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:38:28.387 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 21:38:28.388 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 21:38:52.064 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.060000ms referer=None
+[I 21:43:45.413 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 21:43:45.423 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 22:00:28.409 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 22:00:28.410 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 22:15:20.430 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[I 22:22:28.504 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 22:22:28.505 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 22:25:03.132 NotebookApp] Kernel interrupted: 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8
+[I 22:26:27.551 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 22:26:27.552 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 22:26:40.322 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:3f98d7efa2714a88862367ee37ba9114
+[I 22:26:56.861 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 22:41:23.329 NotebookApp] 302 GET / (92.118.39.78) 0.610000ms
+[W 23:18:23.662 NotebookApp] 404 GET /chs/js/lang_zh_tw.js (118.123.1.40) 1.340000ms referer=None
+[W 23:18:23.664 NotebookApp] 404 GET /customer/js/lang_zh_tw.js (118.123.1.40) 0.780000ms referer=None
+[W 02:06:38.227 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.119.144) 1.110000ms referer=None
+[I 02:27:20.675 NotebookApp] 302 GET / (117.78.8.61) 0.410000ms
+[I 02:27:20.725 NotebookApp] 302 GET /tree? (117.78.8.61) 0.470000ms
+[W 03:26:31.657 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.120000ms referer=None
+[I 04:35:26.234 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 04:35:26.242 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 05:01:20.358 NotebookApp] 302 GET / (139.59.58.35) 0.440000ms
+[W 06:02:21.338 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.150000ms referer=None
+[W 06:36:59.451 NotebookApp] 404 GET /druid/index.html (192.241.199.201) 1.010000ms referer=None
+[I 09:11:26.096 NotebookApp] 302 GET / (92.118.39.78) 0.420000ms
+[W 09:19:33.335 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 09:19:58.736 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test_model.ipynb is not trusted
+[I 09:21:35.396 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 09:21:35.398 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 09:23:35.071 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 09:23:35.072 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 09:24:20.851 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_2_valid_acc_95.6_model_weights.bin
+[W 09:24:20.852 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_1_valid_acc_94.8_model_weights.bin
+[W 09:24:20.854 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_4_valid_acc_95.9_model_weights.bin
+[W 09:24:20.855 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_6_valid_acc_96.8_model_weights.bin
+[W 09:24:20.855 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_5_valid_acc_96.2_model_weights.bin
+[W 09:24:20.856 NotebookApp] delete /Pytorch/SentimentAnalysis/model/epoch_1_valid_acc_87.2_model_weights.bin
+[I 09:27:35.080 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 09:27:35.081 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 09:29:35.068 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 09:29:35.069 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 09:31:35.333 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 09:31:35.335 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 09:47:28.934 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 09:47:28.945 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 11:36:20.880 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8 restarted
+[I 11:43:45.167 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:4ca1e105e14a4df3b50d7179f606c026
+[I 11:43:46.094 NotebookApp] Starting buffering for 7d91fe3f-817c-4866-a5d8-3f6b746f1d58:6b91578ef5ac4b48a33dd0c0027afc6d
+[I 12:15:50.264 NotebookApp] 302 GET / (192.241.212.152) 0.540000ms
+[W 15:11:48.891 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.380000ms referer=None
+[I 16:00:01.634 NotebookApp] 302 GET / (140.207.249.74) 0.410000ms
+[I 16:00:01.662 NotebookApp] 302 GET /tree? (140.207.249.74) 0.440000ms
+[W 16:05:19.740 NotebookApp] 404 GET http://20.247.88.180/2.php (91.239.157.50) 1.420000ms referer=None
+[W 16:05:20.474 NotebookApp] 404 GET http://20.247.88.180/2.php (91.239.157.50) 1.100000ms referer=None
+[W 16:05:22.389 NotebookApp] 404 GET http://20.247.88.180/2.php (91.239.157.50) 1.090000ms referer=None
+[I 17:42:36.424 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 17:42:36.431 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 19:10:30.194 NotebookApp] 405 CONNECT httpbin.org:443 (185.209.15.51) 1.180000ms referer=None
+[I 19:50:20.211 NotebookApp] 302 GET / (64.62.197.159) 0.550000ms
+[I 19:50:32.566 NotebookApp] 302 GET / (64.62.197.163) 0.530000ms
+[I 19:50:32.764 NotebookApp] 302 GET /tree? (64.62.197.163) 0.630000ms
+[W 19:50:54.421 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.162) 1.350000ms referer=None
+[W 19:51:00.002 NotebookApp] 405 CONNECT www.shadowserver.org:443 (64.62.197.162) 1.150000ms referer=None
+[W 19:57:04.277 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.100000ms referer=None
+[I 21:03:49.527 NotebookApp] 302 GET / (114.115.192.246) 0.390000ms
+[I 21:03:49.564 NotebookApp] 302 GET /tree? (114.115.192.246) 0.400000ms
+[W 22:27:15.889 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.120000ms referer=None
+[W 23:06:55.273 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.440000ms referer=None
+[W 01:52:19.349 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 1.070000ms referer=None
+[W 02:09:51.443 NotebookApp] 404 GET /phpmyadmin/index.php (20.243.243.143) 1.450000ms referer=http://139.9.53.25:8888/phpmyadmin/index.php
+[I 03:00:08.290 NotebookApp] 302 GET / (159.223.113.178) 0.420000ms
+[I 03:08:41.921 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 03:08:41.932 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[I 03:47:21.256 NotebookApp] 302 GET / (92.118.39.29) 0.390000ms
+[W 04:39:09.991 NotebookApp] 405 CONNECT cloudflare.com:443 (173.214.175.178) 2.100000ms referer=None
+[I 06:23:00.178 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 06:23:00.185 NotebookApp] 302 GET /tree? (183.240.111.153) 0.410000ms
+[I 07:22:00.661 NotebookApp] 302 GET / (162.142.125.10) 0.390000ms
+[I 07:22:01.083 NotebookApp] 302 GET / (162.142.125.10) 0.350000ms
+[I 07:22:01.508 NotebookApp] Malformed HTTP message from 162.142.125.10: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:22:01.936 NotebookApp] 302 GET /tree (162.142.125.10) 0.510000ms
+[I 07:22:02.357 NotebookApp] Malformed HTTP message from 162.142.125.10: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:22:03.201 NotebookApp] Malformed HTTP message from 162.142.125.10: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:55:25.601 NotebookApp] 302 GET / (167.94.138.61) 0.350000ms
+[I 09:55:26.315 NotebookApp] Malformed HTTP message from 167.94.138.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:55:26.757 NotebookApp] 302 GET /tree (167.94.138.61) 0.520000ms
+[I 09:55:27.205 NotebookApp] Malformed HTTP message from 167.94.138.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:55:28.098 NotebookApp] Malformed HTTP message from 167.94.138.61: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[W 10:15:34.591 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (106.75.211.111) 1.040000ms referer=None
+[I 11:48:00.709 NotebookApp] 302 GET / (184.105.247.206) 0.390000ms
+[I 11:48:21.832 NotebookApp] 302 GET / (184.105.247.222) 0.360000ms
+[I 11:48:22.023 NotebookApp] 302 GET /tree? (184.105.247.222) 0.480000ms
+[W 11:48:57.505 NotebookApp] 404 GET http://api.ipify.org/?format=json (184.105.247.210) 1.000000ms referer=None
+[W 11:49:19.814 NotebookApp] 405 CONNECT www.shadowserver.org:443 (184.105.247.210) 1.090000ms referer=None
+[I 12:00:21.204 NotebookApp] 302 GET / (198.98.59.132) 0.360000ms
+[I 12:16:48.624 NotebookApp] 302 GET / (192.241.202.92) 0.360000ms
+[I 12:40:52.441 NotebookApp] 302 GET / (92.118.39.29) 0.420000ms
+[I 13:41:50.736 NotebookApp] 302 GET / (60.217.75.70) 0.390000ms
+[I 15:55:28.424 NotebookApp] 302 GET / (198.235.24.161) 0.450000ms
+[I 17:03:45.293 NotebookApp] 302 GET / (106.3.146.194) 0.350000ms
+[I 17:04:00.624 NotebookApp] 302 GET /tree (106.3.146.194) 0.450000ms
+[W 18:31:13.677 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.080000ms referer=None
+[I 18:54:27.364 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 18:54:27.372 NotebookApp] 302 GET /tree? (183.240.111.153) 0.430000ms
+[I 19:00:00.099 NotebookApp] 302 GET / (198.235.24.154) 0.400000ms
+[I 19:00:00.624 NotebookApp] 302 GET /tree? (198.235.24.154) 0.500000ms
+[W 19:14:17.098 NotebookApp] 404 GET /phpmyadmin4.8.5/index.php (20.243.243.143) 1.100000ms referer=http://139.9.53.25:8888/phpmyadmin4.8.5/index.php
+[I 21:03:53.080 NotebookApp] 302 GET / (114.115.192.246) 1.170000ms
+[I 21:03:53.117 NotebookApp] 302 GET /tree? (114.115.192.246) 0.480000ms
+[I 21:54:42.895 NotebookApp] 302 GET / (92.118.39.29) 0.410000ms
+[I 03:43:04.507 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 03:43:04.517 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 04:51:36.839 NotebookApp] 302 GET / (87.236.176.51) 0.450000ms
+[I 04:51:37.417 NotebookApp] 302 GET /tree? (87.236.176.51) 0.540000ms
+[I 07:50:02.562 NotebookApp] 302 GET / (92.118.39.29) 0.410000ms
+[I 08:25:09.347 NotebookApp] 302 GET / (198.74.56.135) 0.390000ms
+[I 08:40:11.768 NotebookApp] 302 GET /admin/ (128.14.133.58) 0.400000ms
+[I 08:51:23.321 NotebookApp] 302 GET / (123.56.155.157) 0.430000ms
+[W 08:51:23.560 NotebookApp] 404 GET /CSS/Miniweb.css (123.56.155.157) 1.040000ms referer=None
+[I 08:51:23.562 NotebookApp] 302 GET / (123.56.155.157) 0.310000ms
+[W 08:51:23.566 NotebookApp] 404 GET /nmaplowercheck1670374283 (123.56.155.157) 0.870000ms referer=None
+[W 08:51:23.568 NotebookApp] 404 GET /.git/HEAD (123.56.155.157) 1.160000ms referer=None
+[W 08:51:23.801 NotebookApp] 404 GET /pools/default/buckets (123.56.155.157) 0.980000ms referer=None
+[W 08:51:23.854 NotebookApp] 404 GET /inicio.aspx (123.56.155.157) 1.100000ms referer=None
+[I 08:51:23.904 NotebookApp] 302 GET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 (123.56.155.157) 0.300000ms
+[W 08:51:23.912 NotebookApp] 404 GET /HNAP1 (123.56.155.157) 1.110000ms referer=None
+[W 08:51:23.966 NotebookApp] 404 GET /pools (123.56.155.157) 0.750000ms referer=None
+[W 08:51:24.028 NotebookApp] 404 GET /start.jhtml (123.56.155.157) 0.750000ms referer=None
+[I 08:51:24.075 NotebookApp] 302 GET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 (123.56.155.157) 0.290000ms
+[I 08:51:24.155 NotebookApp] 302 GET / (123.56.155.157) 0.330000ms
+[W 08:51:24.156 NotebookApp] 404 GET /Portal/Portal.mwsl (123.56.155.157) 0.840000ms referer=None
+[W 08:51:24.223 NotebookApp] 404 GET /admin.shtml (123.56.155.157) 0.830000ms referer=None
+[W 08:51:24.229 NotebookApp] 404 GET /pNh6 (123.56.155.157) 0.800000ms referer=None
+[W 08:51:24.279 NotebookApp] 403 POST /sdk (123.56.155.157): '_xsrf' argument missing from POST
+[W 08:51:24.280 NotebookApp] 403 POST /sdk (123.56.155.157) 1.040000ms referer=None
+[W 08:51:24.285 NotebookApp] 404 GET /Portal0000.htm (123.56.155.157) 0.720000ms referer=None
+[I 08:51:24.359 NotebookApp] 302 GET /docs/cplugError.html/ (123.56.155.157) 0.280000ms
+[W 08:51:24.436 NotebookApp] 404 GET /default.jsp (123.56.155.157) 0.730000ms referer=None
+[W 08:51:24.491 NotebookApp] 404 GET /__Additional (123.56.155.157) 0.730000ms referer=None
+[W 08:51:24.625 NotebookApp] 404 GET /home.jhtml (123.56.155.157) 0.960000ms referer=None
+[W 08:51:24.739 NotebookApp] 405 HEAD / (123.56.155.157) 0.590000ms referer=None
+[W 08:51:24.782 NotebookApp] 404 GET /default.aspx (123.56.155.157) 0.940000ms referer=None
+[I 08:51:24.908 NotebookApp] 302 GET / (123.56.155.157) 0.360000ms
+[W 08:51:24.964 NotebookApp] 404 GET /localstart.shtml (123.56.155.157) 1.380000ms referer=None
+[I 08:51:25.009 NotebookApp] 302 GET / (123.56.155.157) 0.450000ms
+[W 08:51:25.238 NotebookApp] 404 GET /menu.asp (123.56.155.157) 1.010000ms referer=None
+[W 08:51:25.441 NotebookApp] 404 GET /base.shtml (123.56.155.157) 0.970000ms referer=None
+[W 08:51:25.833 NotebookApp] 404 GET /base.cfm (123.56.155.157) 1.040000ms referer=None
+[W 08:51:26.042 NotebookApp] 404 GET /home.jsp (123.56.155.157) 1.020000ms referer=None
+[W 08:51:26.229 NotebookApp] 404 GET /readme.txt (123.56.155.157) 0.990000ms referer=None
+[W 08:51:26.476 NotebookApp] 404 GET /admin.pl (123.56.155.157) 0.970000ms referer=None
+[W 08:51:26.730 NotebookApp] 404 GET /home.cfm (123.56.155.157) 1.080000ms referer=None
+[W 08:51:26.933 NotebookApp] 404 GET /start.pl (123.56.155.157) 0.930000ms referer=None
+[W 08:51:27.121 NotebookApp] 404 GET /index.cfm (123.56.155.157) 1.000000ms referer=None
+[W 08:51:27.384 NotebookApp] 404 GET /admin.php (123.56.155.157) 0.940000ms referer=None
+[W 08:51:27.621 NotebookApp] 404 GET /admin.jsp (123.56.155.157) 0.930000ms referer=None
+[W 08:51:27.822 NotebookApp] 404 GET /admin.jsa (123.56.155.157) 0.960000ms referer=None
+[W 08:51:28.029 NotebookApp] 404 GET /main.asp (123.56.155.157) 0.870000ms referer=None
+[W 08:51:28.210 NotebookApp] 404 GET /home.jsa (123.56.155.157) 0.870000ms referer=None
+[W 08:51:28.394 NotebookApp] 404 GET /indice.pl (123.56.155.157) 0.930000ms referer=None
+[W 08:51:28.564 NotebookApp] 404 GET /indice.jhtml (123.56.155.157) 0.920000ms referer=None
+[W 08:51:28.757 NotebookApp] 404 GET /inicio.jsa (123.56.155.157) 0.900000ms referer=None
+[W 08:51:28.950 NotebookApp] 404 GET /admin.html (123.56.155.157) 0.930000ms referer=None
+[W 08:51:29.127 NotebookApp] 404 GET /localstart.asp (123.56.155.157) 0.970000ms referer=None
+[I 08:51:29.176 NotebookApp] 302 GET / (123.56.155.157) 0.270000ms
+[W 08:51:29.320 NotebookApp] 404 GET /main.pl (123.56.155.157) 0.890000ms referer=None
+[W 08:51:29.545 NotebookApp] 404 GET /base.cgi (123.56.155.157) 1.000000ms referer=None
+[W 08:51:29.746 NotebookApp] 404 GET /index.cgi (123.56.155.157) 1.070000ms referer=None
+[W 08:51:29.947 NotebookApp] 404 GET /default.php (123.56.155.157) 1.020000ms referer=None
+[W 08:51:30.150 NotebookApp] 404 GET /admin.aspx (123.56.155.157) 1.030000ms referer=None
+[W 08:51:30.342 NotebookApp] 404 GET /start.jsp (123.56.155.157) 0.970000ms referer=None
+[W 08:51:30.517 NotebookApp] 404 GET /admin.asp (123.56.155.157) 0.990000ms referer=None
+[W 08:51:30.717 NotebookApp] 404 GET /index.aspx (123.56.155.157) 0.990000ms referer=None
+[W 08:51:30.924 NotebookApp] 404 GET /start.cfm (123.56.155.157) 0.930000ms referer=None
+[W 08:51:31.137 NotebookApp] 404 GET /base.pl (123.56.155.157) 0.990000ms referer=None
+[W 08:51:31.354 NotebookApp] 404 GET /default.pl (123.56.155.157) 0.950000ms referer=None
+[W 08:51:31.563 NotebookApp] 404 GET /base.jsa (123.56.155.157) 1.030000ms referer=None
+[W 08:51:31.768 NotebookApp] 404 GET /base.jhtml (123.56.155.157) 1.070000ms referer=None
+[W 08:51:31.985 NotebookApp] 404 GET /base.php (123.56.155.157) 1.030000ms referer=None
+[W 08:51:32.188 NotebookApp] 404 GET /index.jhtml (123.56.155.157) 0.950000ms referer=None
+[W 08:51:32.363 NotebookApp] 404 GET default.asp (123.56.155.157) 0.910000ms referer=None
+[W 08:51:32.568 NotebookApp] 404 GET /base.jsp (123.56.155.157) 0.950000ms referer=None
+[W 08:51:32.744 NotebookApp] 404 GET /home.cgi (123.56.155.157) 1.360000ms referer=None
+[W 08:51:32.912 NotebookApp] 404 GET /default.asp (123.56.155.157) 0.940000ms referer=None
+[W 08:51:33.097 NotebookApp] 404 GET /home.html (123.56.155.157) 1.020000ms referer=None
+[W 08:51:33.290 NotebookApp] 404 GET /index.pl (123.56.155.157) 1.030000ms referer=None
+[W 08:51:33.546 NotebookApp] 404 GET /index.jsa (123.56.155.157) 1.020000ms referer=None
+[W 08:51:33.739 NotebookApp] 404 GET /home.pl (123.56.155.157) 1.000000ms referer=None
+[W 08:51:33.958 NotebookApp] 404 GET /base.inc (123.56.155.157) 1.050000ms referer=None
+[W 08:51:34.190 NotebookApp] 404 GET /localstart.jhtml (123.56.155.157) 1.080000ms referer=None
+[W 08:51:34.412 NotebookApp] 404 GET /main.jsa (123.56.155.157) 1.070000ms referer=None
+[W 08:51:34.602 NotebookApp] 404 GET /admin.cfm (123.56.155.157) 1.010000ms referer=None
+[W 08:51:34.826 NotebookApp] 404 GET /index.shtml (123.56.155.157) 1.020000ms referer=None
+[W 08:51:35.024 NotebookApp] 404 GET /base.aspx (123.56.155.157) 1.030000ms referer=None
+[W 08:51:35.231 NotebookApp] 404 GET /localstart.cgi (123.56.155.157) 0.940000ms referer=None
+[W 08:51:35.441 NotebookApp] 404 GET /start.asp (123.56.155.157) 0.910000ms referer=None
+[W 08:51:35.669 NotebookApp] 404 GET /inicio.shtml (123.56.155.157) 0.940000ms referer=None
+[W 08:51:35.866 NotebookApp] 404 GET /menu.jsp (123.56.155.157) 1.010000ms referer=None
+[W 08:51:36.041 NotebookApp] 404 GET /inicio.asp (123.56.155.157) 0.950000ms referer=None
+[W 08:51:36.240 NotebookApp] 404 GET /start.aspx (123.56.155.157) 0.950000ms referer=None
+[I 08:51:36.927 NotebookApp] 302 GET / (123.56.155.157) 0.400000ms
+[I 08:51:37.077 NotebookApp] 302 GET / (123.56.155.157) 0.340000ms
+[I 09:54:30.484 NotebookApp] 302 GET / (167.248.133.46) 0.380000ms
+[I 09:54:33.983 NotebookApp] 302 GET / (167.248.133.46) 0.350000ms
+[I 09:54:36.082 NotebookApp] Malformed HTTP message from 167.248.133.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:54:37.529 NotebookApp] 302 GET /tree (167.248.133.46) 0.500000ms
+[I 09:54:37.972 NotebookApp] Malformed HTTP message from 167.248.133.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 09:54:40.316 NotebookApp] Malformed HTTP message from 167.248.133.46: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 10:07:42.701 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 10:07:42.712 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 10:37:13.592 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 10:39:15.401 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 10:39:15.402 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 10:43:36.196 NotebookApp] Notebook Pytorch/DeepLearningDemo/LinearModel.ipynb is not trusted
+[I 10:43:36.450 NotebookApp] Kernel started: 8d816be7-5353-41b3-9694-c0326be35176, name: pytorch
+[I 10:44:19.775 NotebookApp] Starting buffering for 8d816be7-5353-41b3-9694-c0326be35176:2f8ba847420c46288f5503edcd1bd914
+[I 10:44:23.973 NotebookApp] Kernel shutdown: 8d816be7-5353-41b3-9694-c0326be35176
+[W 10:44:27.988 NotebookApp] Notebook Pytorch/DeepLearningDemo/MyDataset.ipynb is not trusted
+[I 10:44:28.221 NotebookApp] Kernel started: 93bba2e4-fe34-4ce0-b3ac-8ac62182a4db, name: pytorch
+[I 10:46:28.294 NotebookApp] Saving file at /Pytorch/DeepLearningDemo/MyDataset.ipynb
+[I 11:07:23.537 NotebookApp] 302 GET / (107.189.10.189) 0.450000ms
+[I 11:07:23.846 NotebookApp] 302 GET /tree? (107.189.10.189) 0.530000ms
+[I 11:26:05.088 NotebookApp] 302 GET / (106.75.135.102) 0.430000ms
+[W 12:05:12.295 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[I 12:10:10.478 NotebookApp] 302 GET / (67.205.174.224) 0.410000ms
+[I 12:29:58.785 NotebookApp] 302 GET / (192.241.204.54) 0.370000ms
+[I 13:32:53.223 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 13:32:53.231 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 14:17:51.939 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[I 14:19:52.550 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb
+[W 14:19:52.551 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_preprocessing.ipynb is not trusted
+[W 14:42:54.155 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/data_explore.ipynb is not trusted
+[W 14:50:23.820 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.120000ms referer=None
+[I 15:20:05.621 NotebookApp] 302 GET / (184.105.247.251) 0.420000ms
+[I 15:20:36.366 NotebookApp] 302 GET / (184.105.247.235) 0.390000ms
+[I 15:20:36.590 NotebookApp] 302 GET /tree? (184.105.247.235) 0.520000ms
+[W 15:21:12.679 NotebookApp] 404 GET http://api.ipify.org/?format=json (184.105.247.254) 1.030000ms referer=None
+[W 15:21:35.348 NotebookApp] 405 CONNECT www.shadowserver.org:443 (184.105.247.244) 1.110000ms referer=None
+[I 17:12:40.446 NotebookApp] Starting buffering for 559423a6-38ff-4267-a406-9ed23f7af7a6:1dbde2b122514e2e8a1b5ee5cf3c490b
+[I 17:12:40.458 NotebookApp] Starting buffering for a32ab0fe-5756-4d83-9c16-4f8645865fc4:0083f80dfa134a1680183a54f9137de8
+[I 17:12:40.459 NotebookApp] Starting buffering for 93bba2e4-fe34-4ce0-b3ac-8ac62182a4db:31875eedcf634d228f4e6012b6f97c6e
+[I 17:12:40.460 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:3370ebbad39b4aef853e96fdee59c926
+[I 17:20:39.318 NotebookApp] 302 GET / (167.94.146.59) 0.390000ms
+[I 17:20:39.821 NotebookApp] 302 GET / (167.94.146.59) 0.360000ms
+[I 17:20:40.317 NotebookApp] Malformed HTTP message from 167.94.146.59: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:20:40.812 NotebookApp] 302 GET /tree (167.94.146.59) 0.510000ms
+[I 17:20:41.327 NotebookApp] Malformed HTTP message from 167.94.146.59: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:20:42.362 NotebookApp] Malformed HTTP message from 167.94.146.59: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 17:23:13.286 NotebookApp] 302 GET / (92.118.39.29) 0.410000ms
+[I 20:03:35.326 NotebookApp] Restoring connection for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:3370ebbad39b4aef853e96fdee59c926
+[I 20:03:35.501 NotebookApp] Restoring connection for a32ab0fe-5756-4d83-9c16-4f8645865fc4:0083f80dfa134a1680183a54f9137de8
+[I 20:03:35.744 NotebookApp] Restoring connection for 559423a6-38ff-4267-a406-9ed23f7af7a6:1dbde2b122514e2e8a1b5ee5cf3c490b
+[I 20:03:35.897 NotebookApp] Restoring connection for 93bba2e4-fe34-4ce0-b3ac-8ac62182a4db:31875eedcf634d228f4e6012b6f97c6e
+[I 20:04:04.260 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:3370ebbad39b4aef853e96fdee59c926
+[I 20:04:05.505 NotebookApp] Starting buffering for 93bba2e4-fe34-4ce0-b3ac-8ac62182a4db:31875eedcf634d228f4e6012b6f97c6e
+[I 20:04:06.108 NotebookApp] Starting buffering for a32ab0fe-5756-4d83-9c16-4f8645865fc4:0083f80dfa134a1680183a54f9137de8
+[I 20:04:06.528 NotebookApp] Starting buffering for 559423a6-38ff-4267-a406-9ed23f7af7a6:1dbde2b122514e2e8a1b5ee5cf3c490b
+[W 20:26:49.086 NotebookApp] 405 CONNECT httpbin.org:443 (185.209.15.51) 1.150000ms referer=None
+[I 21:03:48.035 NotebookApp] 302 GET / (183.240.111.153) 0.430000ms
+[I 21:03:48.046 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 21:11:23.717 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:13:26.282 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 21:13:26.284 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 21:14:14.745 NotebookApp] 302 GET / (45.155.126.213) 0.370000ms
+[W 21:15:56.673 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_parameter.ipynb is not trusted
+[I 21:15:56.982 NotebookApp] Kernel started: cac14e9e-1768-4130-8b3b-78cdfebd393d, name: pytorch
+[I 21:17:56.995 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/Longformer_parameter.ipynb
+[W 21:17:56.995 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_parameter.ipynb is not trusted
+[W 21:42:57.491 NotebookApp] WebSocket ping timeout after 119397 ms.
+[I 21:43:02.492 NotebookApp] Starting buffering for cac14e9e-1768-4130-8b3b-78cdfebd393d:6fa82e11bc9c48cb892caf6f4fb07400
+[I 21:44:45.703 NotebookApp] Restoring connection for cac14e9e-1768-4130-8b3b-78cdfebd393d:6fa82e11bc9c48cb892caf6f4fb07400
+[I 22:02:57.922 NotebookApp] Creating new notebook in /Pytorch/SentimentAnalysis/model
+[I 22:02:58.661 NotebookApp] Kernel started: 6b59973e-422a-40b1-aecd-33f4163baf4c, name: python3
+[I 22:04:59.418 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/livelossplot.ipynb
+[I 22:17:06.506 NotebookApp] Starting buffering for 6b59973e-422a-40b1-aecd-33f4163baf4c:8b58918f448f42fd8fd802c735e52119
+[I 22:17:06.529 NotebookApp] Starting buffering for cac14e9e-1768-4130-8b3b-78cdfebd393d:6fa82e11bc9c48cb892caf6f4fb07400
+[I 22:17:06.530 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:e4148756ccc24496818eb043e30c6452
+[I 01:26:29.324 NotebookApp] 302 GET / (167.94.138.62) 0.570000ms
+[I 01:26:29.824 NotebookApp] 302 GET / (167.94.138.62) 0.670000ms
+[I 01:26:30.312 NotebookApp] Malformed HTTP message from 167.94.138.62: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 01:26:30.789 NotebookApp] 302 GET /tree (167.94.138.62) 0.510000ms
+[I 01:26:31.290 NotebookApp] Malformed HTTP message from 167.94.138.62: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 01:26:32.448 NotebookApp] Malformed HTTP message from 167.94.138.62: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 02:49:20.298 NotebookApp] 302 GET / (92.118.39.29) 0.420000ms
+[W 02:56:02.191 NotebookApp] 405 CONNECT example.com:80 (185.224.128.17) 1.200000ms referer=None
+[I 03:15:07.581 NotebookApp] 302 GET / (183.240.111.153) 0.600000ms
+[I 03:15:07.592 NotebookApp] 302 GET /tree? (183.240.111.153) 0.590000ms
+[W 03:49:12.269 NotebookApp] 405 HEAD / (164.90.216.62) 0.650000ms referer=None
+[W 03:49:12.899 NotebookApp] 404 GET /system_api.php (164.90.216.62) 2.290000ms referer=None
+[W 03:49:13.430 NotebookApp] 404 GET /c/version.js (164.90.216.62) 1.620000ms referer=None
+[W 03:49:13.966 NotebookApp] 404 GET /streaming/clients_live.php (164.90.216.62) 1.650000ms referer=None
+[W 03:49:14.511 NotebookApp] 404 GET /stalker_portal/c/version.js (164.90.216.62) 1.380000ms referer=None
+[W 03:49:15.046 NotebookApp] 404 GET /stream/live.php (164.90.216.62) 2.020000ms referer=None
+[W 03:49:15.565 NotebookApp] 404 GET /flu/403.html (164.90.216.62) 1.370000ms referer=None
+[I 03:49:16.084 NotebookApp] 302 GET / (164.90.216.62) 0.740000ms
+[I 03:49:16.349 NotebookApp] 302 GET /tree (164.90.216.62) 0.620000ms
+[I 04:16:48.787 NotebookApp] 302 GET / (107.182.129.185) 0.620000ms
+[I 04:16:49.284 NotebookApp] 302 GET /tree? (107.182.129.185) 1.020000ms
+[W 04:16:50.326 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 48.890000ms referer=None
+[W 04:16:50.893 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 67.380000ms referer=None
+[W 04:16:51.439 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 53.120000ms referer=None
+[W 04:16:51.971 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 36.740000ms referer=None
+[W 04:16:52.518 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 51.800000ms referer=None
+[W 04:16:53.053 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 40.680000ms referer=None
+[W 04:16:53.583 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 33.570000ms referer=None
+[W 04:16:54.130 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 45.610000ms referer=None
+[W 04:16:54.667 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 40.550000ms referer=None
+[W 04:16:55.206 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 43.600000ms referer=None
+[W 04:16:55.760 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 63.100000ms referer=None
+[W 06:37:45.592 NotebookApp] 404 GET /druid/index.html (192.241.202.37) 1.930000ms referer=None
+[I 08:25:07.436 NotebookApp] 302 GET / (43.158.217.205) 0.400000ms
+[W 09:06:11.035 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.170000ms referer=None
+[I 09:51:17.719 NotebookApp] Creating new directory in /Pytorch/SentimentAnalysis/model
+[I 09:52:06.064 NotebookApp] Kernel shutdown: 7d91fe3f-817c-4866-a5d8-3f6b746f1d58
+[W 09:54:21.747 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/livelossplot.ipynb is not trusted
+[I 09:54:21.903 NotebookApp] Kernel started: 8b1e4d32-d61e-4ea8-911e-65191a38d602, name: python3
+[I 09:58:21.914 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/livelossplot.ipynb
+[I 09:58:43.979 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/livelossplot.ipynb
+[I 09:58:43.992 NotebookApp] Starting buffering for 8b1e4d32-d61e-4ea8-911e-65191a38d602:db1f90b7540a4e58b9ee9aad14fe4bdf
+[W 09:58:44.306 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/livelossplot.ipynb is not trusted
+[I 09:59:05.566 NotebookApp] Starting buffering for 8b1e4d32-d61e-4ea8-911e-65191a38d602:7b65e3a22f8b471e83d8777717303d63
+[W 09:59:14.219 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/livelossplot.ipynb is not trusted
+[I 09:59:44.467 NotebookApp] Starting buffering for 8b1e4d32-d61e-4ea8-911e-65191a38d602:7c571103d8364db38dbbe65afa6044da
+[I 09:59:52.592 NotebookApp] Kernel shutdown: 8b1e4d32-d61e-4ea8-911e-65191a38d602
+[W 09:59:57.753 NotebookApp] delete /Pytorch/SentimentAnalysis/model/test/livelossplot.ipynb
+[I 10:00:00.291 NotebookApp] Creating new notebook in /Pytorch/SentimentAnalysis/model/test
+[I 10:00:01.764 NotebookApp] Kernel started: 76992ff6-e7f6-4945-8f57-47ee6a46f2fb, name: pytorch
+[I 10:02:01.926 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/test_livelossplot.ipynb
+[W 10:09:47.251 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:10:05.432 NotebookApp] Kernel started: bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852, name: pytorch
+[I 10:12:06.936 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:12:06.937 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[W 10:13:47.771 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 10:13:56.008 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:3f49e183c69b4ed7967f071d27485f01
+[W 10:13:59.740 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/Longformer_SentimentAnalysis.ipynb is not trusted
+[I 10:14:24.271 NotebookApp] Starting buffering for 87bb17a2-8d9e-4ce1-948f-d3418d873efb:da84943da34242d39dff6c77736a262c
+[W 10:14:29.528 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 10:16:31.463 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 10:16:31.464 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[W 10:16:42.733 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb is not trusted
+[I 10:20:06.009 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:20:06.010 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:22:14.560 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:22:14.561 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:24:06.413 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:24:06.413 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:28:06.654 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:28:06.655 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:30:05.954 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:30:05.955 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:32:05.983 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:32:05.983 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:34:06.512 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:34:06.512 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:36:06.647 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:36:06.647 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:38:11.969 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:38:11.970 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:40:19.907 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:40:19.908 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:42:50.606 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:42:50.607 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 10:45:28.842 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 10:45:28.843 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:02:50.724 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:02:50.725 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:05:36.997 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:05:36.997 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:14:37.889 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:14:37.889 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:16:33.707 NotebookApp] 302 GET / (92.118.39.29) 0.430000ms
+[I 11:17:38.431 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:17:38.432 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:22:00.491 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:22:00.492 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:36:11.045 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:36:11.046 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 11:37:09.799 NotebookApp] Kernel interrupted: bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852
+[I 11:49:41.188 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 11:49:41.189 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[W 12:00:59.260 NotebookApp] 404 GET /druid/index.html (124.70.70.4) 1.060000ms referer=None
+[I 12:03:31.547 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 12:03:31.548 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 12:16:08.420 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852 restarted
+[I 12:17:21.234 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 12:17:21.235 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 12:18:23.440 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852 restarted
+[I 12:20:12.101 NotebookApp] Kernel interrupted: bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852
+[I 12:20:51.255 NotebookApp] 302 GET / (192.241.205.224) 0.470000ms
+[I 12:31:45.408 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 12:31:45.410 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 12:45:01.874 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 12:45:01.876 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 12:45:27.096 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 12:45:27.105 NotebookApp] 302 GET /tree? (183.240.111.153) 0.420000ms
+[I 13:00:31.495 NotebookApp] 302 GET / (103.203.58.5) 0.430000ms
+[I 13:37:10.315 NotebookApp] 302 GET / (128.14.232.148) 0.410000ms
+[I 13:37:28.957 NotebookApp] 302 GET /tree? (128.14.232.148) 0.480000ms
+[W 13:37:31.779 NotebookApp] 404 GET /sitemap.xml (128.14.232.148) 1.090000ms referer=None
+[I 14:34:52.629 NotebookApp] Starting buffering for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[I 14:34:57.144 NotebookApp] Restoring connection for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[I 14:35:46.662 NotebookApp] Starting buffering for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[I 14:35:48.117 NotebookApp] Restoring connection for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[W 14:37:13.295 NotebookApp] WebSocket ping timeout after 115584 ms.
+[W 14:37:18.118 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 14:37:18.296 NotebookApp] Starting buffering for 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a:163d2b4bc3d1440999557c9454f3843b
+[I 14:37:23.119 NotebookApp] Starting buffering for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[I 14:37:53.642 NotebookApp] Restoring connection for 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a:163d2b4bc3d1440999557c9454f3843b
+[I 14:38:07.910 NotebookApp] Restoring connection for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[I 14:40:28.009 NotebookApp] Starting buffering for bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852:9b642b5f871f444fa7f83c5f2a6d1b70
+[I 14:40:29.254 NotebookApp] Restoring connection for bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852:9b642b5f871f444fa7f83c5f2a6d1b70
+[I 14:49:33.585 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 14:49:33.586 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 14:50:01.966 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/test_livelossplot.ipynb
+[I 15:03:23.497 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 15:03:23.498 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 15:17:13.121 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 15:17:13.122 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 15:21:05.460 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852 restarted
+[I 15:31:01.711 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 15:31:01.713 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 15:44:51.947 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb
+[W 15:44:51.948 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/test/my_test_program.ipynb is not trusted
+[I 16:01:41.086 NotebookApp] Kernel shutdown: 559423a6-38ff-4267-a406-9ed23f7af7a6
+[I 16:01:41.087 NotebookApp] Kernel shutdown: 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a
+[I 16:01:41.103 NotebookApp] Kernel shutdown: a32ab0fe-5756-4d83-9c16-4f8645865fc4
+[I 16:01:41.106 NotebookApp] Kernel shutdown: cac14e9e-1768-4130-8b3b-78cdfebd393d
+[I 16:01:41.107 NotebookApp] Kernel shutdown: c1f77ae2-3e0a-4e0a-9cc7-ed7c0f35a7f4
+[I 16:01:41.109 NotebookApp] Kernel shutdown: 87bb17a2-8d9e-4ce1-948f-d3418d873efb
+[I 16:01:41.187 NotebookApp] Starting buffering for 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a:163d2b4bc3d1440999557c9454f3843b
+[I 16:01:41.342 NotebookApp] Kernel shutdown: 1ed8bc50-aa01-47b6-863a-ba12b899e627
+[I 16:01:41.478 NotebookApp] Kernel shutdown: ac51f01f-96b2-478b-99f0-ca6f1975e28f
+[I 16:01:41.494 NotebookApp] Kernel shutdown: 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8
+[I 16:01:41.586 NotebookApp] Starting buffering for 3d7e7cae-c2fd-4cca-83b7-07e3d24077c8:67d78a9d844841218e83398ba216b1ee
+[I 16:01:41.728 NotebookApp] Kernel shutdown: 2fb4ceb7-ffb1-4ef6-bb42-3af138e5cb9a
+[E 16:01:41.728 NotebookApp] Uncaught exception DELETE /api/sessions/0f19e193-608f-4c57-81ab-48fe1d957379 (121.31.15.24)
+    HTTPServerRequest(protocol='http', host='139.9.53.25:8888', method='DELETE', uri='/api/sessions/0f19e193-608f-4c57-81ab-48fe1d957379', version='HTTP/1.1', remote_ip='121.31.15.24')
+    Traceback (most recent call last):
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/notebook/services/sessions/handlers.py", line 162, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/tornado/gen.py", line 775, in run
+        yielded = self.gen.send(value)
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/home/anaconda/anaconda3/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/home/anaconda/anaconda3/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/home/anaconda/anaconda3/lib/python3.8/site-packages/jupyter_client/multikernelmanager.py", line 274, in _async_shutdown_kernel
+        if km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 16:01:41.729 NotebookApp] Unhandled error
+[E 16:01:41.729 NotebookApp] {
+      "Host": "139.9.53.25:8888",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "_xsrf=2|c409ae41|3f22eec419673b2dab0752d415cb85ef|1668150541; username-139-9-53-25-8888=\"2|1:0|10:1670141602|25:username-139-9-53-25-8888|44:NGJiYWIwNjlhZDQwNGNjMDg5N2FmZTMzZDJmNDYyMmM=|67d6f2d4b40b560bfc4668b0980f5cd280dca962f47cd8d76f0f71f40bb7b4b3\"",
+      "Origin": "http://139.9.53.25:8888",
+      "Referer": "http://139.9.53.25:8888/notebooks/Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|c409ae41|3f22eec419673b2dab0752d415cb85ef|1668150541"
+    }
+[E 16:01:41.729 NotebookApp] 500 DELETE /api/sessions/0f19e193-608f-4c57-81ab-48fe1d957379 (121.31.15.24) 1.710000ms referer=http://139.9.53.25:8888/notebooks/Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb
+[W 16:01:41.771 NotebookApp] 404 DELETE /api/sessions/5d6e281f-bf27-4dfc-9443-b518b7591b01 (121.31.15.24): Session not found: session_id='5d6e281f-bf27-4dfc-9443-b518b7591b01'
+[W 16:01:41.771 NotebookApp] Session not found: session_id='5d6e281f-bf27-4dfc-9443-b518b7591b01'
+[W 16:01:41.771 NotebookApp] 404 DELETE /api/sessions/5d6e281f-bf27-4dfc-9443-b518b7591b01 (121.31.15.24) 0.690000ms referer=http://139.9.53.25:8888/notebooks/Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:01:45.893 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:01:47.817 NotebookApp] Kernel started: f9c928c3-3399-4154-a15d-69ce6e280764, name: pytorch
+[I 16:02:46.319 NotebookApp] Creating new notebook in /Pytorch/SentimentAnalysis/model
+[I 16:02:47.123 NotebookApp] Kernel started: f34c07f8-1d65-4a1b-a17c-d732f7c8f865, name: pytorch
+[I 16:03:47.961 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb
+[W 16:03:47.963 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_SentimentAnalysis_Task_3.0.ipynb is not trusted
+[I 16:04:48.281 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:04:48.626 NotebookApp] 302 GET /admin/ (23.90.160.130) 0.470000ms
+[I 16:06:47.403 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:08:47.868 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:10:47.186 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:11:44.481 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852 restarted
+[I 16:12:47.167 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:14:47.185 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:16:47.895 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:18:47.174 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:40:47.237 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:42:32.112 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 16:44:47.202 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 16:46:47.215 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 17:08:47.920 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 17:42:29.965 NotebookApp] 302 GET / (185.180.143.80) 0.460000ms
+[I 17:42:30.137 NotebookApp] 302 GET /tree? (185.180.143.80) 0.550000ms
+[I 19:44:20.132 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 19:44:47.210 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 19:46:47.211 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:00:47.185 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:02:47.176 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:04:47.186 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:06:47.890 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:28:32.165 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 20:28:47.230 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:30:47.896 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:48:47.196 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 20:58:29.477 NotebookApp] 302 GET / (92.118.39.29) 0.460000ms
+[I 21:06:47.906 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 21:22:47.209 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 21:40:47.335 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 21:56:47.208 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 22:14:47.237 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 22:23:42.430 NotebookApp] 302 GET / (107.182.129.185) 0.780000ms
+[I 22:23:42.934 NotebookApp] 302 GET /tree? (107.182.129.185) 0.810000ms
+[W 22:23:45.037 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 102.280000ms referer=None
+[W 22:23:45.599 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 52.700000ms referer=None
+[W 22:23:46.793 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 93.420000ms referer=None
+[W 22:23:47.344 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 45.240000ms referer=None
+[W 22:23:47.952 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 105.190000ms referer=None
+[W 22:23:48.553 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 89.510000ms referer=None
+[W 22:23:49.103 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 44.060000ms referer=None
+[W 22:23:49.695 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 85.790000ms referer=None
+[W 22:23:50.323 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 119.900000ms referer=None
+[W 22:23:50.874 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 35.420000ms referer=None
+[W 22:23:51.473 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 97.580000ms referer=None
+[I 22:32:47.218 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 22:48:55.899 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 23:06:47.913 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 23:24:47.898 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 00:28:17.910 NotebookApp] 302 GET / (216.218.206.98) 1.340000ms
+[I 00:28:50.926 NotebookApp] 302 GET / (216.218.206.74) 0.390000ms
+[I 00:28:51.125 NotebookApp] 302 GET /tree? (216.218.206.74) 0.510000ms
+[W 00:29:28.281 NotebookApp] 404 GET http://api.ipify.org/?format=json (216.218.206.114) 5.800000ms referer=None
+[W 00:29:51.307 NotebookApp] 405 CONNECT www.shadowserver.org:443 (216.218.206.118) 1.170000ms referer=None
+[I 00:32:40.705 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 00:32:40.714 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 00:36:15.448 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.090000ms referer=None
+[W 01:00:01.673 NotebookApp] 404 GET http://91.199.118.155/2.php (91.239.157.50) 1.460000ms referer=None
+[W 01:00:02.212 NotebookApp] 404 GET http://91.199.118.155/2.php (91.239.157.50) 1.090000ms referer=None
+[W 01:00:04.700 NotebookApp] 404 GET http://91.199.118.155/2.php (91.239.157.50) 1.080000ms referer=None
+[I 01:05:12.025 NotebookApp] 302 GET / (104.248.246.48) 0.370000ms
+[I 02:43:54.188 NotebookApp] Malformed HTTP message from 192.241.194.23: no colon in header line
+[I 04:48:05.038 NotebookApp] 302 GET / (66.240.219.146) 0.390000ms
+[I 04:48:05.389 NotebookApp] 302 GET /tree (66.240.219.146) 0.510000ms
+[I 04:52:24.191 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 04:52:24.200 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[I 05:33:48.594 NotebookApp] 302 GET / (167.94.145.60) 0.420000ms
+[I 05:33:48.954 NotebookApp] 302 GET / (167.94.145.60) 0.350000ms
+[I 05:33:49.301 NotebookApp] Malformed HTTP message from 167.94.145.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 05:33:49.651 NotebookApp] 302 GET /tree (167.94.145.60) 0.450000ms
+[I 05:33:50.015 NotebookApp] Malformed HTTP message from 167.94.145.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 05:33:50.736 NotebookApp] Malformed HTTP message from 167.94.145.60: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 06:09:49.572 NotebookApp] 302 GET / (167.248.133.117) 0.380000ms
+[I 06:09:50.021 NotebookApp] 302 GET / (167.248.133.117) 0.410000ms
+[I 06:09:50.471 NotebookApp] Malformed HTTP message from 167.248.133.117: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 06:09:50.923 NotebookApp] 302 GET /tree (167.248.133.117) 0.510000ms
+[I 06:09:51.364 NotebookApp] Malformed HTTP message from 167.248.133.117: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 06:09:52.251 NotebookApp] Malformed HTTP message from 167.248.133.117: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 06:11:35.894 NotebookApp] 302 GET / (198.235.24.49) 0.450000ms
+[I 06:47:24.287 NotebookApp] 302 GET / (162.142.125.219) 0.400000ms
+[I 06:47:24.707 NotebookApp] 302 GET / (162.142.125.219) 0.350000ms
+[I 06:47:25.117 NotebookApp] Malformed HTTP message from 162.142.125.219: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 06:47:25.742 NotebookApp] 302 GET /tree (162.142.125.219) 0.500000ms
+[I 06:47:26.154 NotebookApp] Malformed HTTP message from 162.142.125.219: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 06:47:26.987 NotebookApp] Malformed HTTP message from 162.142.125.219: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:03:43.393 NotebookApp] 302 GET / (92.118.39.29) 0.410000ms
+[I 08:44:57.092 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 08:44:57.103 NotebookApp] 302 GET /tree? (183.240.111.153) 0.400000ms
+[I 09:00:47.898 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:02:47.182 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:17:14.190 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 09:18:47.890 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:20:47.203 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:22:47.181 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:26:47.212 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 09:26:47.894 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:28:47.887 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:30:47.900 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:34:47.192 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:34:59.232 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 09:36:47.176 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:38:47.900 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:39:35.252 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 09:40:47.201 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:42:47.919 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:43:59.273 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 09:44:47.186 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:46:47.199 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 09:48:47.195 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:00:21.100 NotebookApp] 302 GET / (64.62.197.149) 0.430000ms
+[I 10:00:30.998 NotebookApp] 302 GET / (64.62.197.141) 0.420000ms
+[I 10:00:31.165 NotebookApp] 302 GET /tree? (64.62.197.141) 0.530000ms
+[W 10:00:47.557 NotebookApp] 404 GET http://api.ipify.org/?format=json (64.62.197.146) 1.210000ms referer=None
+[W 10:00:53.292 NotebookApp] 405 CONNECT www.shadowserver.org:443 (64.62.197.144) 1.110000ms referer=None
+[W 10:04:04.902 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (106.75.211.111) 1.000000ms referer=None
+[I 10:06:47.901 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:14:59.292 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 10:16:47.921 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:17:05.311 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 10:18:47.970 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:18:56.332 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 10:20:47.197 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:40:47.253 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:43:05.352 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 10:44:08.372 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 10:44:47.203 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:46:47.219 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:48:47.208 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 10:57:51.689 NotebookApp] Starting buffering for 76992ff6-e7f6-4945-8f57-47ee6a46f2fb:a14ebe5e2a1a47a19071123fb4d89670
+[I 11:10:17.366 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 11:42:47.970 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 12:24:34.981 NotebookApp] 302 GET / (192.241.193.251) 0.380000ms
+[I 12:44:47.988 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 12:46:47.695 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 12:49:20.392 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 12:50:47.325 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 12:54:06.857 NotebookApp] 404 HEAD http://112.124.42.80:63435/ (60.191.125.35) 1.200000ms referer=None
+[W 14:17:51.772 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/BERT_SentimentAnalysis.ipynb is not trusted
+[I 14:17:52.346 NotebookApp] Kernel started: 93a3caa1-b05d-41b6-ab04-aec14a612797, name: pytorch
+[I 14:38:00.900 NotebookApp] Kernel interrupted: f34c07f8-1d65-4a1b-a17c-d732f7c8f865
+[I 14:38:26.414 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 14:38:47.223 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 14:40:47.312 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 14:50:36.683 NotebookApp] 302 GET / (165.22.83.8) 0.470000ms
+[I 14:57:00.905 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[I 14:59:17.435 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[W 14:59:47.622 NotebookApp] WebSocket ping timeout after 118234 ms.
+[W 14:59:48.459 NotebookApp] zmq message arrived on closed channel
+[W 14:59:48.460 NotebookApp] zmq message arrived on closed channel
+[I 14:59:52.624 NotebookApp] Starting buffering for f34c07f8-1d65-4a1b-a17c-d732f7c8f865:13124e517b6f4801a2a7867061ac2bdd
+[I 14:59:53.780 NotebookApp] Restoring connection for f34c07f8-1d65-4a1b-a17c-d732f7c8f865:13124e517b6f4801a2a7867061ac2bdd
+[I 15:00:14.432 NotebookApp] Starting buffering for f34c07f8-1d65-4a1b-a17c-d732f7c8f865:13124e517b6f4801a2a7867061ac2bdd
+[I 15:00:14.498 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:00:14.688 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 15:02:20.956 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:02:20.957 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 15:20:15.939 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:20:15.939 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 15:21:53.456 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 15:22:15.405 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:22:15.405 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 15:24:15.851 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:24:15.851 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 15:42:15.408 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:42:15.409 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 15:58:15.420 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 15:58:15.421 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 16:16:15.449 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 16:16:15.450 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 16:30:20.680 NotebookApp] 302 GET / (92.118.39.29) 0.450000ms
+[I 16:32:15.449 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 16:32:15.449 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 16:38:42.377 NotebookApp] 302 GET / (107.182.129.185) 0.400000ms
+[I 16:38:42.873 NotebookApp] 302 GET /tree? (107.182.129.185) 0.490000ms
+[W 16:38:43.898 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 28.950000ms referer=None
+[W 16:38:44.423 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 23.960000ms referer=None
+[W 16:38:44.949 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 22.940000ms referer=None
+[W 16:38:45.469 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 20.590000ms referer=None
+[W 16:38:45.992 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 28.150000ms referer=None
+[W 16:38:46.512 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.320000ms referer=None
+[W 16:38:47.032 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.350000ms referer=None
+[W 16:38:47.553 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 23.730000ms referer=None
+[W 16:38:48.073 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 26.350000ms referer=None
+[W 16:38:48.594 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 22.500000ms referer=None
+[W 16:38:49.113 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 25.940000ms referer=None
+[I 16:50:15.437 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 16:50:15.437 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 17:08:15.967 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 17:08:15.968 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 17:24:15.965 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 17:24:15.965 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 17:42:15.921 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 17:42:15.921 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 17:42:34.620 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 17:42:34.630 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 17:58:15.931 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 17:58:15.932 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 18:16:15.902 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 18:16:15.903 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 19:09:38.477 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 19:10:15.701 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 19:10:15.701 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 20:58:15.469 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 20:58:15.469 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 21:32:49.833 NotebookApp] 302 GET / (178.79.146.26) 0.440000ms
+[I 21:32:50.147 NotebookApp] 302 GET /tree? (178.79.146.26) 0.520000ms
+[I 21:42:15.422 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 21:42:15.422 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 21:44:15.434 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 21:44:15.435 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 21:46:15.439 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 21:46:15.440 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 21:48:15.943 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 21:48:15.943 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 21:50:15.411 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 21:50:15.411 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 21:52:15.417 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 21:52:15.418 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 22:08:15.946 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 22:08:15.946 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 22:26:15.458 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 22:26:15.458 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 22:44:15.432 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 22:44:15.432 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 23:00:15.927 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 23:00:15.928 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 23:10:55.740 NotebookApp] 302 GET / (183.240.111.153) 0.390000ms
+[I 23:10:55.748 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 23:18:04.880 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.170000ms referer=None
+[I 23:18:15.946 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 23:18:15.947 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 23:34:15.936 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 23:34:15.936 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[W 23:43:41.401 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.110000ms referer=None
+[I 23:52:15.936 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 23:52:15.936 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 00:10:15.934 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 00:10:15.934 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 00:26:15.933 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 00:26:15.933 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 00:44:15.935 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 00:44:15.935 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 01:00:15.960 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 01:00:15.960 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 01:18:15.937 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 01:18:15.938 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 01:34:15.923 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 01:34:15.924 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 01:37:47.771 NotebookApp] 302 GET / (92.118.39.29) 0.420000ms
+[I 01:52:15.982 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 01:52:15.982 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 02:08:15.918 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 02:08:15.919 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 02:26:15.955 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 02:26:15.955 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 02:44:15.950 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 02:44:15.950 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 03:00:15.911 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 03:00:15.911 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 03:18:15.922 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 03:18:15.922 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 03:34:15.968 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 03:34:15.969 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 05:08:10.994 NotebookApp] 302 GET / (161.35.125.110) 0.420000ms
+[I 06:14:26.369 NotebookApp] 302 GET / (87.236.176.23) 0.460000ms
+[I 06:14:26.856 NotebookApp] 302 GET /tree? (87.236.176.23) 0.540000ms
+[I 07:12:31.294 NotebookApp] 302 GET / (34.76.96.55) 0.410000ms
+[I 08:26:57.695 NotebookApp] 302 GET / (92.118.39.29) 0.400000ms
+[I 08:30:22.003 NotebookApp] 302 GET / (139.162.216.166) 0.410000ms
+[I 08:30:22.244 NotebookApp] 302 GET /tree? (139.162.216.166) 0.500000ms
+[I 09:22:15.912 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 09:22:15.912 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[I 09:23:38.501 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel f34c07f8-1d65-4a1b-a17c-d732f7c8f865 restarted
+[I 09:24:15.435 NotebookApp] Saving file at /Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb
+[W 09:24:15.436 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
+[W 09:50:42.757 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.420000ms referer=None
+[I 10:40:32.474 NotebookApp] 302 GET / (183.240.111.153) 0.590000ms
+[I 10:40:32.483 NotebookApp] 302 GET /tree? (183.240.111.153) 0.530000ms
+[I 11:06:38.703 NotebookApp] 302 GET / (23.90.160.122) 0.440000ms
+[I 11:06:38.959 NotebookApp] 302 GET /tree? (23.90.160.122) 0.500000ms
+[W 11:06:39.993 NotebookApp] 404 GET /showLogin.cc (23.90.160.122) 1.150000ms referer=None
+[I 12:26:30.913 NotebookApp] 302 GET / (192.241.213.19) 0.440000ms
+[I 13:37:05.002 NotebookApp] Starting buffering for 93a3caa1-b05d-41b6-ab04-aec14a612797:422c308ac5674999a06472eff9a399af
+[I 13:37:10.033 NotebookApp] Starting buffering for f9c928c3-3399-4154-a15d-69ce6e280764:f5691525e4254d95accd0c8097fbba2c
+[W 13:43:41.089 NotebookApp] 405 CONNECT api.ipify.org:443 (90.151.171.108) 1.550000ms referer=None
+[W 13:43:51.407 NotebookApp] 404 GET http://api.ipify.org/?Z71446362332Q1 (90.151.171.108) 1.130000ms referer=https://google.com/
+[I 13:43:51.407 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[I 14:46:50.668 NotebookApp] 302 GET / (198.235.24.174) 0.510000ms
+[I 14:46:51.141 NotebookApp] 302 GET /tree? (198.235.24.174) 0.530000ms
+[W 16:40:17.970 NotebookApp] 404 GET http://eth0.me?Z71446362332Q1 (90.151.171.106) 1.140000ms referer=https://google.com/
+[I 16:40:17.970 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 17:23:21.868 NotebookApp] 302 GET / (103.203.58.5) 0.500000ms
+[I 17:32:59.609 NotebookApp] 302 GET / (107.182.129.185) 0.390000ms
+[I 17:33:00.110 NotebookApp] 302 GET /tree? (107.182.129.185) 0.550000ms
+[W 17:33:01.140 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 30.150000ms referer=None
+[W 17:33:01.675 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 23.130000ms referer=None
+[W 17:33:02.202 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 22.420000ms referer=None
+[W 17:33:02.723 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 22.710000ms referer=None
+[W 17:33:03.246 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 25.130000ms referer=None
+[W 17:33:03.773 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 20.770000ms referer=None
+[W 17:33:04.296 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 25.390000ms referer=None
+[W 17:33:04.813 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.180000ms referer=None
+[W 17:33:05.336 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 25.870000ms referer=None
+[W 17:33:05.855 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.790000ms referer=None
+[W 17:33:06.371 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 19.990000ms referer=None
+[I 18:40:41.477 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 18:40:41.487 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[I 19:07:06.945 NotebookApp] 302 GET / (54.153.15.205) 0.440000ms
+[W 20:03:07.897 NotebookApp] 405 CONNECT checkip.amazonaws.com:443 (90.151.171.106) 1.110000ms referer=None
+[W 20:03:18.038 NotebookApp] 404 GET http://checkip.amazonaws.com?Z71446362332Q1 (90.151.171.106) 1.140000ms referer=https://google.com/
+[I 20:03:18.038 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 21:31:02.725 NotebookApp] 302 GET / (159.65.112.143) 0.400000ms
+[I 21:48:25.039 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 21:48:25.049 NotebookApp] 302 GET /tree? (183.240.111.153) 0.390000ms
+[W 23:27:54.419 NotebookApp] 405 CONNECT ip.bablosoft.com:443 (90.151.171.106) 1.470000ms referer=None
+[W 23:28:04.525 NotebookApp] 404 GET http://ip.bablosoft.com/?Z71446362332Q1 (90.151.171.106) 1.090000ms referer=https://google.com/
+[I 23:28:04.525 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 00:55:28.158 NotebookApp] 302 GET / (92.118.39.29) 0.430000ms
+[W 02:26:59.988 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[W 02:41:34.237 NotebookApp] 405 CONNECT fingerprints.bablosoft.com:443 (90.151.171.106) 1.100000ms referer=None
+[W 02:41:44.672 NotebookApp] 404 GET http://fingerprints.bablosoft.com/ip?Z71446362332Q1 (90.151.171.106) 1.110000ms referer=https://google.com/
+[I 02:41:44.672 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 02:43:52.834 NotebookApp] Malformed HTTP message from 192.241.209.10: Malformed HTTP request line
+[I 02:44:33.797 NotebookApp] Malformed HTTP message from 192.241.209.10: no colon in header line
+[I 03:10:49.852 NotebookApp] 302 GET / (167.248.133.117) 0.430000ms
+[I 03:10:50.574 NotebookApp] Malformed HTTP message from 167.248.133.117: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:10:51.035 NotebookApp] 302 GET /tree (167.248.133.117) 0.520000ms
+[I 03:10:51.497 NotebookApp] Malformed HTTP message from 167.248.133.117: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:10:52.399 NotebookApp] Malformed HTTP message from 167.248.133.117: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 03:12:00.455 NotebookApp] 302 GET / (121.36.65.184) 0.420000ms
+[I 03:12:00.494 NotebookApp] 302 GET /tree? (121.36.65.184) 0.420000ms
+[I 06:01:49.407 NotebookApp] 302 GET / (183.240.111.153) 0.420000ms
+[I 06:01:49.418 NotebookApp] 302 GET /tree? (183.240.111.153) 0.410000ms
+[W 06:35:33.209 NotebookApp] 405 CONNECT eth0.me:443 (90.151.171.106) 1.050000ms referer=None
+[W 06:35:38.285 NotebookApp] 404 GET http://eth0.me?Z71446362332Q1 (90.151.171.106) 1.070000ms referer=https://google.com/
+[I 06:35:38.285 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[W 06:38:40.578 NotebookApp] 404 GET /druid/index.html (192.241.209.196) 1.030000ms referer=None
+[W 08:51:57.392 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.090000ms referer=None
+[W 08:59:00.693 NotebookApp] 404 HEAD http://110.242.68.4/ (14.204.44.153) 1.580000ms referer=None
+[W 08:59:01.903 NotebookApp] 404 GET http://www.wujieliulan.com/ (1.202.114.12) 1.580000ms referer=None
+[W 08:59:01.964 NotebookApp] 404 GET http://www.rfa.org/english/ (1.85.219.150) 1.350000ms referer=None
+[W 08:59:02.872 NotebookApp] 405 CONNECT cn.bing.com:443 (171.120.158.123) 1.140000ms referer=None
+[W 08:59:03.599 NotebookApp] 404 GET http://dongtaiwang.com/ (171.12.10.38) 1.650000ms referer=None
+[W 08:59:04.061 NotebookApp] 405 CONNECT www.voanews.com:443 (36.106.167.22) 1.080000ms referer=None
+[W 08:59:04.498 NotebookApp] 404 GET http://www.minghui.org/ (60.13.6.139) 1.580000ms referer=None
+[W 08:59:04.785 NotebookApp] 404 GET http://www.soso.com/ (171.37.58.213) 1.510000ms referer=None
+[W 08:59:05.377 NotebookApp] 405 CONNECT www.so.com:443 (221.14.175.245) 1.090000ms referer=None
+[W 08:59:05.408 NotebookApp] 404 GET http://www.epochtimes.com/ (123.145.19.74) 1.670000ms referer=None
+[W 08:59:05.489 NotebookApp] 405 CONNECT www.baidu.com:443 (36.106.166.144) 0.840000ms referer=None
+[W 10:40:29.900 NotebookApp] 405 CONNECT eth0.me:443 (90.151.171.106) 1.070000ms referer=None
+[W 10:40:40.280 NotebookApp] 404 GET http://eth0.me?Z71446362332Q1 (90.151.171.106) 1.090000ms referer=https://google.com/
+[I 10:40:40.280 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 11:41:02.886 NotebookApp] 302 GET / (107.182.129.185) 0.380000ms
+[I 11:41:03.383 NotebookApp] 302 GET /tree? (107.182.129.185) 0.630000ms
+[W 11:41:04.403 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.500000ms referer=None
+[W 11:41:04.925 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 23.170000ms referer=None
+[W 11:41:05.445 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 27.360000ms referer=None
+[W 11:41:05.964 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 22.900000ms referer=None
+[W 11:41:06.495 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 27.360000ms referer=None
+[W 11:41:07.020 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 29.560000ms referer=None
+[W 11:41:07.536 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 20.310000ms referer=None
+[W 11:41:08.053 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.480000ms referer=None
+[W 11:41:08.573 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 24.010000ms referer=None
+[W 11:41:09.090 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 21.060000ms referer=None
+[W 11:41:10.623 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 28.630000ms referer=None
+[I 12:47:29.486 NotebookApp] 302 GET / (198.199.94.57) 0.400000ms
+[W 13:57:37.453 NotebookApp] 405 CONNECT checkip.amazonaws.com:443 (90.151.171.108) 1.490000ms referer=None
+[W 13:57:47.361 NotebookApp] 404 GET http://checkip.amazonaws.com?Z71446362332Q1 (90.151.171.108) 1.070000ms referer=https://google.com/
+[I 13:57:47.361 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[I 15:18:19.055 NotebookApp] Starting buffering for f34c07f8-1d65-4a1b-a17c-d732f7c8f865:cbce60ef2ab845aaabe8c21d07ebef92
+[I 15:18:19.395 NotebookApp] Starting buffering for bb99dfe9-a9b6-4dc4-a10e-6485b4c5f852:9b642b5f871f444fa7f83c5f2a6d1b70
+[I 16:15:44.537 NotebookApp] 302 GET / (111.7.96.148) 0.400000ms
+[I 16:15:49.118 NotebookApp] 302 GET / (111.7.100.34) 0.360000ms
+[I 16:15:49.148 NotebookApp] 302 GET /tree? (111.7.100.34) 0.510000ms
+[I 16:15:49.252 NotebookApp] 302 GET / (111.7.100.35) 0.250000ms
+[I 16:15:49.321 NotebookApp] 302 GET /tree? (111.7.100.32) 0.320000ms
+[I 17:40:32.013 NotebookApp] 302 GET / (183.240.111.153) 0.400000ms
+[I 17:40:32.022 NotebookApp] 302 GET /tree? (183.240.111.153) 0.370000ms
+[W 17:41:49.703 NotebookApp] 405 CONNECT checkip.amazonaws.com:443 (90.151.171.106) 1.100000ms referer=None
+[W 17:41:59.790 NotebookApp] 404 GET http://checkip.amazonaws.com?Z71446362332Q1 (90.151.171.106) 1.160000ms referer=https://google.com/
+[I 17:41:59.790 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 17:48:26.603 NotebookApp] 302 GET / (92.118.39.29) 0.430000ms
+[I 19:53:11.044 NotebookApp] 302 GET / (138.197.175.73) 0.360000ms
+[I 20:56:53.378 NotebookApp] 302 GET / (183.240.111.153) 0.410000ms
+[I 20:56:53.387 NotebookApp] 302 GET /tree? (183.240.111.153) 0.380000ms
+[W 21:17:37.271 NotebookApp] 405 CONNECT eth0.me:443 (90.151.171.106) 1.090000ms referer=None
+[W 21:17:47.290 NotebookApp] 404 GET http://eth0.me?Z71446362332Q1 (90.151.171.106) 1.090000ms referer=https://google.com/
+[I 21:17:47.290 NotebookApp] Malformed HTTP message from 90.151.171.106: Malformed HTTP request line
+[I 22:48:50.123 NotebookApp] 302 GET / (216.218.206.106) 0.430000ms
+[I 22:49:11.301 NotebookApp] 302 GET / (216.218.206.90) 0.360000ms
+[I 22:49:11.469 NotebookApp] 302 GET /tree? (216.218.206.90) 0.460000ms
+[W 22:49:47.032 NotebookApp] 404 GET http://api.ipify.org/?format=json (216.218.206.90) 1.060000ms referer=None
+[W 22:50:09.960 NotebookApp] 405 CONNECT www.shadowserver.org:443 (216.218.206.118) 1.140000ms referer=None
+[W 23:58:46.827 NotebookApp] 405 CONNECT check.best-proxies.ru:443 (90.151.171.108) 1.100000ms referer=None
+[W 23:58:56.907 NotebookApp] 404 GET http://check.best-proxies.ru/ip.php?Z71446362332Q1 (90.151.171.108) 1.120000ms referer=https://google.com/
+[I 23:58:56.908 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[W 00:23:16.644 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.090000ms referer=None
+[I 01:56:43.276 NotebookApp] 302 GET / (107.174.172.167) 0.360000ms
+[I 01:56:44.871 NotebookApp] 302 GET /tree? (107.174.172.167) 0.500000ms
+[W 02:42:34.409 NotebookApp] 405 CONNECT api.ipify.org:443 (90.151.171.108) 1.530000ms referer=None
+[W 02:42:44.550 NotebookApp] 404 GET http://api.ipify.org/?Z71446362332Q1 (90.151.171.108) 1.080000ms referer=https://google.com/
+[I 02:42:44.550 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[W 03:36:54.034 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[W 05:34:01.671 NotebookApp] 405 CONNECT ip.bablosoft.com:443 (90.151.171.108) 1.070000ms referer=None
+[W 05:34:11.780 NotebookApp] 404 GET http://ip.bablosoft.com/?Z71446362332Q1 (90.151.171.108) 1.110000ms referer=https://google.com/
+[I 05:34:11.780 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[I 05:50:50.068 NotebookApp] 302 GET / (107.182.129.185) 0.360000ms
+[I 05:50:50.568 NotebookApp] 302 GET /tree? (107.182.129.185) 0.510000ms
+[W 05:50:51.583 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 19.170000ms referer=None
+[W 05:50:52.097 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 18.540000ms referer=None
+[W 05:50:52.615 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 20.050000ms referer=None
+[W 05:50:53.130 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 18.050000ms referer=None
+[W 05:50:53.642 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 19.890000ms referer=None
+[W 05:50:54.154 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 19.700000ms referer=None
+[W 05:50:54.673 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 19.520000ms referer=None
+[W 05:50:55.187 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 18.470000ms referer=None
+[W 05:50:55.700 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 18.490000ms referer=None
+[W 05:50:56.216 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 18.690000ms referer=None
+[W 05:50:56.736 NotebookApp] 401 POST /login?next=/tree? (107.182.129.185) 19.900000ms referer=None
+[W 06:52:41.396 NotebookApp] 404 GET http://passport.baidu.com/ (8.219.71.118) 1.100000ms referer=None
+[I 07:16:50.761 NotebookApp] 302 GET / (167.94.146.58) 0.410000ms
+[I 07:16:51.270 NotebookApp] 302 GET / (167.94.146.58) 0.410000ms
+[I 07:16:51.777 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:16:52.292 NotebookApp] 302 GET /tree (167.94.146.58) 0.440000ms
+[I 07:16:52.802 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[I 07:16:53.826 NotebookApp] Malformed HTTP message from 167.94.146.58: Malformed HTTP version in HTTP Request-Line: 'HTTP/2.0'
+[W 08:11:19.802 NotebookApp] 405 CONNECT fingerprints.bablosoft.com:443 (90.151.171.108) 1.070000ms referer=None
+[W 08:11:29.895 NotebookApp] 404 GET http://fingerprints.bablosoft.com/ip?Z71446362332Q1 (90.151.171.108) 1.070000ms referer=https://google.com/
+[I 08:11:29.895 NotebookApp] Malformed HTTP message from 90.151.171.108: Malformed HTTP request line
+[W 09:08:32.417 NotebookApp] Notebook Pytorch/SentimentAnalysis/model/My_Sentiment_Task_4.0.ipynb is not trusted
